@@ -1,0 +1,3534 @@
+COHERENCE FRAMEWORK
+Schema v7
+==========================================================================
+
+Architecture changes from v6:
+- Four sections: Method, Measurement, Theory, Cases
+- Cases section: Primary [measurement reference] and Secondary
+  [variance from primary only -- not different enough = retired]
+- Primary proof designation added to weapons and failure states
+- ~30 cases retired for duplicating existing proof coverage
+
+Political cases remain provisional. All carry high T3 risk.
+Weapon percentage values remain uncalibrated [WIP item 2].
+
+
+==========================================================================
+SECTION ONE -- METHOD
+==========================================================================
+
+
+BASIC QUALITIES OF COHERENCE
+------------------------------
+Eight qualities. Mutually dependent.
+
+INTERNAL CYCLE PROPERTIES [Q1-Q4]
+
+  1. GENERATIVE CYCLE
+     Completes a loop: takes in, transforms, returns.
+     Failure mode: cycle collapse or performance without function.
+
+  2. SURPLUS PRODUCTION
+     Outputs exceed cost of running the cycle across an honest window.
+     Moral content lives here.
+     Failure mode: consumption dominance.
+
+  3. CORRECTION CAPACITY
+     Detects contradiction between outputs and orientation.
+     Moves without external pressure.
+     Failure mode: correction absence or capture.
+
+  4. GENUINE AXIS
+     Orientation generated internally with self-examination present.
+     Failure mode: imposed axis.
+
+BOUNDARY PROPERTIES [Q5-Q6]
+
+  5. BOUNDARY INTEGRITY
+     Honest definition of who is inside the boundary.
+     Does not shift to exclude populations experiencing harm.
+     Failure mode: boundary manipulation.
+     Linked to Q7 -- boundary drift is a measurement integrity failure.
+
+  6. PROPORTIONAL RESPONSE
+     Correction force proportional to deviation detected, not to the
+     threat correction poses to existing power.
+     Failure mode: overcorrection as suppression.
+
+TEMPORAL PROPERTIES [Q7-Q8]
+
+  7. MEASUREMENT INTEGRITY
+     System maintains honest, accessible surface by which outputs can
+     be evaluated against stated orientation. Includes boundary honesty,
+     signal sequencing, correction trigger accessibility.
+     Failure mode: measurement surface captured, drifted, or destroyed.
+     Most load-bearing quality -- Q1-Q6 intact with Q7 destroyed
+     misreads as Variable or High while consuming.
+     Correction pathway: surface reconstruction, not cycle repair.
+     Primary proof: Enron [deployed]. Doctor Manhattan [structural].
+
+  8. TRANSMISSION SELECTIVITY
+     System transmits correctable axis to successors, not locked state.
+     Fidelity necessary but insufficient.
+     Failure mode: Fertile Lock.
+     Q4 = within-window axis integrity. Q8 = what crosses transmission
+     boundary.
+     Primary proof: Faeanor -> sons [Q4/Q8 distinction clearest case].
+
+STRUCTURAL ORDER
+
+  Generative cycle         precondition
+  Surplus production       moral value lives here
+  Correction capacity      keeps cycle honest
+  Genuine axis             gives correction direction
+  Boundary integrity       keeps measurement population honest
+  Proportional response    keeps correction from becoming next failure
+  Measurement integrity    keeps correction capacity functional
+  Transmission selectivity what coherence produces across time
+
+ANTI-COHERENCE REVERSE ORDER
+
+  Fertile Lock -> Measurement destruction -> Boundary manipulation
+  -> Axis imposition -> Correction capture -> Consumption dominance
+  -> Cycle collapse
+
+  Q6 failure runs parallel, not sequential.
+
+
+--------------------------------------------------------------------------
+GOALS
+--------------------------------------------------------------------------
+
+  1. Accurate measurement of generating versus consuming across defined
+     population and time window. Named parameters before measurement:
+     boundary, population, window, substrate.
+  2. Identification of failure mechanism, not just failure presence.
+     Each failure state has a different correction pathway.
+  3. Practical utility. If a component does not produce a reading more
+     useful than intuition alone, it does not belong.
+
+
+--------------------------------------------------------------------------
+VALUES
+--------------------------------------------------------------------------
+
+  GOOD = material security + reduced coercive exposure + expanded
+         options. Named population, defined boundary, honest window.
+         Trackable from outputs without access to internal states.
+
+  BAD  = transfers that increase coercive exposure, reduce material
+         security, or narrow options -- regardless of intent.
+         Intent = mechanism evidence only.
+
+Framework does not initiate critical harm in response to Low coherence.
+Response = minimum necessary, contextual, measured from outputs.
+
+
+--------------------------------------------------------------------------
+COHERENCE WEAPON TEST
+--------------------------------------------------------------------------
+
+Asks: is this system being used as a weapon against coherence rather
+than as an expression of it? Applied first in any measurement.
+
+SCORING PROCEDURE
+
+  Irrelevant weapons exit pool entirely -- do not score zero.
+  Weapon clearly present = full percentage value.
+  Close match = half value.
+  Not relevant = exits pool.
+
+  Final score = sum of scored values / sum of relevant pool total.
+  High = bad. Low = good.
+  Zero = none present OR none relevant -- distinction noted in report.
+
+DEPLOYMENT DIRECTION
+
+  Defensive [protecting genuine coherence] = noted, not scored.
+  Aggressive [suppressing measurement of own extraction] = scores.
+  Direction determined by net transfer reading, not stated intent.
+
+MEASUREMENT DIFFICULTY PRINCIPLE
+
+  Genuine unknowing = calibration problem [T1/T2]. Does not score.
+  Known concealment where operator benefits = Q7 weapon. Scores.
+  Test: does system controlling complexity benefit from unreadability?
+  Operator cannot claim genuine unknowing if they benefit from it.
+
+SCALE AND TIMESCALE NOTE
+
+  Large institutions show high weapon deployment regardless of coherence
+  level. Diagnostic question: proportion defensive vs aggressive in
+  specific window. Short window most reliable.
+
+
+--------------------------------------------------------------------------
+COHERENCE WEAPON INDEX
+--------------------------------------------------------------------------
+
+Living list. Percentage values pending calibration [WIP item 2].
+63 weapons plus variants.
+PRIMARY = strongest single proof case for that weapon.
+Dual-quality weapons score at full value once, not doubled.
+
+--------------------------------------------------------------------------
+Q1 -- GENERATIVE CYCLE
+--------------------------------------------------------------------------
+
+  Dependency Construction
+    Target cannot repair itself without ongoing input from capturing
+    system. Borrowed cycle, not self-sustaining.
+    Variant: Intercession Monopoly.
+    PRIMARY: Soul of Cinder [Dark Souls].
+
+  Exit Cost Construction
+    Increasing cost of leaving until correction requires destroying
+    own substrate.
+    Variant: Salvation Capture [ideological -- access to terminal
+    goods dependent on compliance].
+    PRIMARY: abusive relationships [Family type].
+
+  Intermittent Reinforcement                        [dual Q1/Q3]
+    Unpredictable reward/punishment producing cycle instability and
+    correction collapse simultaneously. Only weapon destroying
+    correction capacity without requiring a stable axis to correct
+    against.
+    PRIMARY: Family type abuse deployments.
+
+  Isolation Construction
+    Reducing target's access to outside inputs. Starves cycle.
+    PRIMARY: abusive relationships.
+
+  Scarcity Manufacture
+    Artificially reducing resources to force consumption-dominant
+    operation, then using consumption as evidence of inherent failure.
+    PRIMARY: structural poverty maintenance systems.
+
+--------------------------------------------------------------------------
+Q2 -- SURPLUS PRODUCTION
+--------------------------------------------------------------------------
+
+  Baseline Shift
+    Moving reference point for "normal" in direction benefiting
+    shifting party. Makes extraction read as neutral or generative.
+    PRIMARY: post-1980 wage stagnation framing.
+
+  Churn Normalization
+    High turnover treated as industry standard not substrate
+    consumption signal.
+    PRIMARY: Corporate Management Structure.
+
+  Coherence Rent
+    Extracting surplus from system's past genuine coherence without
+    contributing to current generation. Active extraction of inherited
+    credibility. Distinct from Legacy Coherence [measurement difficulty].
+    PRIMARY: pharmaceutical licensing of publicly-funded research.
+
+  Desire Manufacture
+    Creating need that product satisfies before measuring whether
+    need is genuine.
+    PRIMARY: advertising topology.
+
+  Metric Capture
+    Proxy metrics substituted for genuine output measurement.
+    Distinct from Measurement Surface Control [Q7]: Metric Capture
+    controls what is measured; MSC controls who measures.
+    PRIMARY: Six Sigma corporate variant.
+
+  Shareholder Primacy Framing
+    Measurement boundary defined as shareholder return only.
+    PRIMARY: Corporate Topology Failure [all variants].
+
+  Stakeholder Diffusion                             [dual Q2/Q5]
+    Population expanded so broadly net transfer direction becomes
+    unmeasurable.
+    PRIMARY: corporate ESG frameworks without output measurement.
+
+  Vision Laundering
+    Genuine transformative language attached to extraction operations.
+    PRIMARY: tech industry disruption framing.
+
+--------------------------------------------------------------------------
+Q3 -- CORRECTION CAPACITY
+--------------------------------------------------------------------------
+
+  Altruism Exploitation
+    Converting genuine care into compliance lever.
+    PRIMARY: Family type abuse.
+
+  Attention Capture
+    Occupying correction capacity with low-value signal.
+    PRIMARY: social media topology.
+
+  Competence Undermining
+    Eroding target's confidence in own judgment in domains relevant
+    to measurement. Correction fires; target discards output.
+    PRIMARY: abusive relationships.
+
+  Correction Theatre                                [dual Q3/Q8]
+    Within-window: initiating visible first steps of genuine correction
+    then halting before reaching mechanism producing harm.
+    Cross-transmission [Performed Correction]: successors inherit
+    correction performance without correction capacity.
+    PRIMARY [Q3]: Catholic Church abuse crisis response.
+
+  Credible Commitment Trap
+    Irreversible commitments eliminating correction options.
+    PRIMARY: nuclear deterrence structures.
+
+  Intermittent Reinforcement                        [dual Q1/Q3]
+    See Q1.
+
+  Love Bombing then Withdrawal
+    Extreme positive reinforcement followed by withdrawal.
+    PRIMARY: cult recruitment.
+
+  Philosophical Disarmament
+    Genuine insight lowering correction capacity before consumption
+    engages. Scales with target intelligence.
+    PRIMARY: Gravemind [Halo].
+
+  Sinfulness Framing
+    Natural correction signals converted to evidence of personal
+    moral failure.
+    PRIMARY: religious institutional deployments.
+
+  Social Proof Fabrication
+    Manufacturing consensus signals to bypass correction capacity.
+    PRIMARY: Palpatine crowd management [Star Wars].
+
+  Thought Stopping
+    Automatic interruption of self-examination at specific trigger
+    points. Intact globally, destroyed locally at highest-value points.
+    PRIMARY: ideological formation systems.
+
+--------------------------------------------------------------------------
+Q4 -- GENUINE AXIS
+--------------------------------------------------------------------------
+
+  Axis Substitution
+    Replacing genuine axis with externally imposed axis within operating
+    window without detection. [Cross-transmission: Transmission Capture]
+    PRIMARY: Blood-Soaked Court [Trench Crusade].
+
+  Benevolent Capture Framing
+    Axis-locked conscription presented as liberation.
+    PRIMARY: Dagoth Ur [Elder Scrolls].
+
+  Divine Mandate Claim
+    Axis origin asserted outside human measurement. Only weapon making
+    a basic quality test structurally inapplicable.
+    PRIMARY: theocratic state formations.
+
+  Enantiodromia
+    Axis inversion readable as High coherence at short window.
+    Internal drift, not external attack.
+    PRIMARY: SHODAN [System Shock].
+    Secondary: Word Bearers [institutional scale].
+
+  Loaded Language
+    In-group terminology pre-deciding conclusions inside the words.
+    PRIMARY: ideological formation systems.
+
+--------------------------------------------------------------------------
+Q5 -- BOUNDARY INTEGRITY
+--------------------------------------------------------------------------
+
+  Boundary Manipulation
+    Shifting who counts as inside boundary to exclude populations
+    currently experiencing harm.
+    PRIMARY: Marley/Eldian system [Attack on Titan].
+
+  Contamination Framing
+    Legitimate measurement associated with condemned positions.
+    Variant: Heresy Framing [religious/ideological systems].
+    PRIMARY: Catholic Church Reformation response.
+
+  Stakeholder Diffusion                             [dual Q2/Q5]
+    See Q2.
+
+  Universalism Trap
+    Particular group's interest framed as universal.
+    PRIMARY: settler colonial legitimating frameworks.
+
+--------------------------------------------------------------------------
+Q6 -- PROPORTIONAL RESPONSE
+--------------------------------------------------------------------------
+
+  Coherence Inversion
+    System's own correction capacity used as attack vector against
+    population it should protect.
+    PRIMARY: Joker [DC].
+
+  Coherence Mimicry
+    Technically informed performance of High coherence without
+    generative mechanism.
+    PRIMARY: HAL 9000.
+
+  Incremental Commitment [Emergent]
+    Chain of small commitments making terminal position unreachable.
+    No planned terminal. Structural byproduct. Exists only at window
+    length. Q6 only.
+    PRIMARY: platform lock-in.
+
+  Incremental Commitment [Engineered]               [dual Q6/Q7]
+    Planned terminal; steps reverse-designed from destination before
+    target takes step one. Concealment active from entry.
+    PRIMARY: Mankar Camoran [Elder Scrolls].
+    Secondary proof: Zeke Yeager [sibling-scale operator].
+
+  Necessary Cruelty Framing
+    Consolidating harm early then withdrawing.
+    PRIMARY: institutional "tough love" deployments.
+
+  Necessity Claim + Necessity Escalation
+    Sequential. Claim alone = half value; both = full value.
+    Variants: Horizon Extension, Eschatological Horizon Extension.
+    PRIMARY: Palpatine [both, civilizational scale].
+
+  Sacrifice Frame
+    Population required to accept harm as proof of commitment to goal
+    defined by extracting party.
+    PRIMARY: Imperium of Man [Warhammer].
+
+--------------------------------------------------------------------------
+Q7 -- MEASUREMENT INTEGRITY
+--------------------------------------------------------------------------
+
+  Amnesia Manufacture
+    Denying or reframing past events to prevent target using own
+    history as evidence. Attacks measurement window directly.
+    PRIMARY: Soviet period reframing [Russia].
+
+  Appearance Management
+    Systematic mismatch between visible and actual capability.
+    Variant: Deniability Architecture.
+    PRIMARY: Enron surface performance.
+
+  Axis Fragmentation                        [Structural = no score]
+    Deliberately introducing competing sub-axes below integration
+    threshold. Deployed scores; Structural [genuine political pluralism
+    under stress] does not.
+    PRIMARY [deployed]: HYDRA topology.
+    Note [structural]: Weimar Republic.
+
+  Complexity Shield
+    Generating complexity making honest measurement practically
+    impossible. Structural variant [genuine unknowing, symmetric
+    burden] = no score. Deployed [operator benefits] = scores.
+    Variants: Expertise Shield, Procedural Exhaustion.
+    PRIMARY [deployed]: financial derivative structures.
+
+  Consultancy Shield
+    Low-output decisions outsourced to external parties, breaking
+    accountability chain.
+    PRIMARY: Enron / Arthur Andersen.
+
+  Contestation Cost Asymmetry
+    Challenging outputs costs more for some groups than others.
+    Variant: Discovery Weaponization.
+    PRIMARY: whistleblower exposure costs.
+
+  Incremental Commitment [Engineered]               [dual Q6/Q7]
+    See Q6.
+
+  Information Asymmetry Exploitation
+    Structuring interactions so one party cannot measure other's
+    actual position.
+    PRIMARY: insider trading structures.
+
+  Inversion of Burden
+    Shifting requirement to prove extraction onto measured population.
+    Eliminates starting presumption. Distinct from Contestation Cost
+    Asymmetry [which raises cost].
+    PRIMARY: corporate liability frameworks [worker harm burden].
+
+  Measurement Surface Control
+    Capturing mechanism by which outputs are evaluated. System defines
+    own success criteria. Primary Q7 weapon.
+    PRIMARY: Palpatine [Star Wars -- civilizational scale].
+
+  Need-to-Know Compartmentalization
+    Information fragmented so no single actor can measure full output.
+    PRIMARY: intelligence agency structures.
+
+  Normalcy Anchor
+    Continued surface function used as evidence against substrate
+    consumption readings.
+    PRIMARY: Imperium of Man [Warhammer].
+
+  Obligation Manufacture                            [dual Q7/Q3]
+    Converting something genuine into asymmetric obligation
+    foreclosing present measurement.
+    Variants: Moral Debt Construction, Solidarity Capture,
+    Insider Knowledge Trap.
+    PRIMARY: Iago [Othello].
+
+  Precedent Laundering
+    Low-stakes cases establishing precedents foreclosing measurement
+    in high-stakes ones.
+    PRIMARY: legal precedent structures.
+
+  Procedural Shield
+    Procedural compliance substituted for output measurement.
+    Variant: Procedural Exhaustion.
+    PRIMARY: Catholic Church abuse crisis response.
+
+  Reality Distortion
+    Contradicting accurate perceptions until target defers to
+    operator's version.
+    PRIMARY: abusive relationships.
+
+  Security Framing
+    Measurement attempts made readable as threats to collective safety.
+    PRIMARY: surveillance state justifications.
+
+  Selection Pressure Narrowing
+    Only immediate, local, surface-level signals reach correction
+    mechanism. Measurement window compressed.
+    PRIMARY: Sotha Sil [Elder Scrolls -- window compressed to own
+    clockwork; died not knowing world had changed].
+
+  Signal Saturation
+    Flooding measurement surface with volume until genuine signal
+    indistinguishable from noise. Distinct from Attention Capture [Q3].
+    Structural variant does not score.
+    PRIMARY: Doctor Manhattan [structural -- temporal simultaneity].
+
+--------------------------------------------------------------------------
+Q8 -- TRANSMISSION SELECTIVITY
+--------------------------------------------------------------------------
+
+  Calibration Strip
+    Transmitting operational framework while removing founding
+    contestation record. High fidelity; zero correctable capacity.
+    PRIMARY: Mont Pelerin -> neoliberal network.
+
+  Coherence Rent                                    [also Q2]
+    Extracting on inherited credibility at transmission scale.
+    See Q2 for definition.
+
+  Correction Theatre                                [dual Q3/Q8]
+    See Q3.
+
+  Legitimacy Transfer
+    Borrowing credibility from high-coherence source through proximity
+    not earned output.
+    Variants: Persuasion Ad Hominem, Regulatory Capture Legitimacy,
+    Legacy Coherence.
+    PRIMARY: Imperium of Man [Imperial history as credibility source].
+
+  Martyrdom Laundering
+    Genuine past suffering converted to moral permission for present
+    extraction. Successors inherit permission without the suffering.
+    PRIMARY: Griffith post-Eclipse [Berserk].
+
+  Transmission Capture
+    Replacing genuine axis of successors with imposed axis before
+    self-examination becomes operational. Primary Q8 weapon.
+    [Within-window equivalent: Axis Substitution, Q4.]
+    PRIMARY: Word Bearers post-Lorgar [Warhammer].
+
+--------------------------------------------------------------------------
+NEW WEAPONS -- PENDING CALIBRATION [WIP item 7]
+--------------------------------------------------------------------------
+
+  Proxy Capture                                           [Q4/Q8 dual]
+    Using a legitimate institution as delivery mechanism for an
+    illegitimate axis without the institution detecting the substitution.
+    Distinct from Legitimacy Transfer [borrows credibility] and Axis
+    Substitution [replaces axis directly]. Proxy Capture keeps the
+    institution's genuine axis intact while routing extraction through
+    it. Institution believes it is operating normally.
+    Primary target: Q4 [genuine axis of institution exploited].
+    Secondary: Q8 [proxy relationship transmits across institutional
+    succession].
+    PRIMARY proof: pharmaceutical companies using academic research
+    infrastructure [real-world]. Palpatine using Jedi as enforcement
+    arm of own consolidation [fictional].
+
+  Exhaustion Engineering                                  [Q3]
+    Deliberately generating procedural complexity, attrition, and cost
+    until correction capacity depletes through use rather than direct
+    attack. Correction mechanism is never touched -- it runs out of
+    substrate. Distinct from Complexity Shield [which obscures
+    measurement] and Attention Capture [which redirects correction
+    capacity]. Exhaustion Engineering consumes it.
+    PRIMARY proof: legal warfare against whistleblowers and small
+    defendants [real-world]. Change-axis entities running targets until
+    exhaustion triggers compliance [fictional -- Void, Kenjaku].
+
+  Consensus Manufacture                                   [Q7]
+    Producing genuine agreement among a captured population then using
+    that agreement as evidence of measurement accuracy. Distinct from
+    Social Proof Fabrication [which creates false signals -- this
+    consensus is real]. What is fabricated is the inference: real
+    consensus = accurate output reading. Captured population genuinely
+    agrees; the capture is in treating their agreement as independent
+    verification.
+    PRIMARY proof: captured expert panels in regulatory capture
+    [real-world]. Vivec's theological consensus in Morrowind [fictional
+    -- genuine agreement produced by controlled information environment].
+
+  Horizon Collapse                                        [Q7]
+    Compressing target's planning horizon until only immediate survival
+    is measurable as a decision input. Distinct from Scarcity Manufacture
+    [which reduces resources] -- Horizon Collapse attacks the temporal
+    dimension of measurement directly without reducing material supply.
+    Target cannot measure long-window outputs because no cognitive or
+    practical bandwidth reaches beyond immediate survival.
+    PRIMARY proof: gig economy payment structures [real-world -- weekly
+    pay, no stability, horizon compressed to next shift]. Tower system
+    [WATF -- floor-by-floor survival logic forcing Horizon Collapse
+    structurally].
+
+
+
+==========================================================================
+SECTION TWO -- MEASUREMENT
+==========================================================================
+
+
+BOUNDARY SELECTION [precedes all other parameters]
+
+Three constraints in sequence before measurement begins:
+
+  1. Harm exclusion -- no boundary excluding populations currently
+     bearing costs of system operation.
+  2. Extraction exclusion -- no boundary excluding populations whose
+     resources are being consumed.
+  3. Coherence measurement runs only after boundary passes both filters.
+
+Boundary selection = value selection. Prevents circularity.
+Proof cases: Shareholder Primacy [fails 1+2, rejected], Bell Labs
+AT&T boundary [passes both, measurement proceeds].
+
+Political cases: full moral boundary forced. Both boundary readings
+run explicitly. See Section Four.
+
+
+PARAMETERS [after boundary selection]
+
+  Population / Window / Method / Substrate
+  Missing any = Variable by default.
+
+Output states: None / Low / Middle / Variable / High / State
+Middle requires substrate specification or returns Variable.
+
+
+MEASUREMENT RULES
+
+  - Legitimacy and morality = parallel tracks, measured separately.
+  - Intent = mechanism evidence only. Does not modify output reading.
+  - Population groups measured separately, not aggregated.
+  - Past novel-input responses = most reliable evidence within window.
+  - Net transfer direction distinguishes parasitic from mutualistic.
+    Volume secondary to direction.
+  - Individual actor properties = mechanism evidence only.
+  - Measurement difficulty from genuine unknowing = calibration problem.
+    From known concealment where operator benefits = Q7 weapon active.
+
+
+--------------------------------------------------------------------------
+THREE-AXIS MEASUREMENT
+--------------------------------------------------------------------------
+
+  COHERENCE AXIS [horizontal]
+    Cycle integrity across all eight qualities.
+    Left = anti-coherence. Right = coherence. Independent of moral
+    direction.
+
+  GENERATION AXIS [vertical]
+    Up = positive generation for unit and surrounding units.
+    Down = extraction from unit and surrounding units.
+
+  CAPTURE AXIS [depth]
+    Front [Low]   Friction at boundary, correction capacity intact.
+    Mid   [Mild]  Selective deviation suppression internalized.
+    Back  [High]  Axis shifted below self-examination depth.
+
+Coherence + generation = what the system is doing.
+Capture = under whose orientation.
+
+CRITICAL CONFIGURATION
+  High coherence + positive generation + High capture = most dangerous.
+  Outputs look genuine; axis belongs to external party.
+
+Internal capture signature: differential contestation cost by group,
+selective deviation suppression by group, surplus flowing consistently
+from one group position toward another.
+
+Captured systems are almost always run by people who believe they are
+not captured. Structural property, not moral judgment.
+
+
+--------------------------------------------------------------------------
+STATE MEASUREMENT PROCEDURE
+--------------------------------------------------------------------------
+
+Four tests in sequence. Wrong correction accelerates failure.
+
+  TEST ONE   Contestation Cost Asymmetry -- most accessible. No stress
+             event required. Identifies capture presence and location.
+  TEST TWO   Transfer Direction -- net surplus flow, short window.
+  TEST THREE Correction Initiation -- self-correct before external
+             pressure? Historical reconstruction preferred.
+  TEST FOUR  Directionality Composite.
+
+FAILURE MODE IDENTIFICATION
+
+  Asymmetric + extractive  + correction absent   = Captured state
+  Asymmetric + generative  + correction present  = Contained /
+                                                   developmental gap
+  Symmetric  + extractive  + correction absent   = Axis-Lock
+  Symmetric  + extractive  + correction present  = Consumption failure
+  Symmetric  + generative  + correction present  = Functional
+                                                   [check directionality]
+  Q1-Q6 intact + extractive + surface fabricated = Measurement Collapse
+  High fidelity transmission + locked axis       = Fertile Lock
+
+
+--------------------------------------------------------------------------
+FAILURE STATES
+--------------------------------------------------------------------------
+
+All share one property: coherence running in wrong direction, not
+absent. All systems in failure states are operational.
+
+  DEPENDENCY
+    Cycle cannot run without borrowed framework or founding person it
+    cannot repair or replace.
+    Primary quality: Q1. Proxy fails gradually; transmission suddenly.
+    PRIMARY proof: Soul of Cinder [Dark Souls].
+
+  SELECTION PRESSURE
+    Only immediate, local, surface-level feedback reaches correction.
+    Corrects locally, fails at boundary.
+    Primary quality: Q7 [measurement window compressed].
+    Correction: surface expansion, not cycle repair.
+    PRIMARY proof: Sotha Sil [Elder Scrolls -- window compressed
+    entirely to own clockwork; died not knowing world had changed].
+
+  CONSUMPTION
+    Cycle costs more than it produces. Draws down substrate.
+    Primary quality: Q2.
+    PRIMARY proof: Imperium of Man [Warhammer -- civilizational scale].
+
+  CONTAINED
+    Genuine coherence, uneven coverage. Not degenerative.
+    Primary quality: Q5.
+    PRIMARY proof: Casca post-Eclipse [Berserk -- correction capacity
+    intact but inaccessible, not absent].
+
+  AXIS-LOCKED
+    Full coverage; axis shifted below self-examination depth.
+    Higher coherence produces more damage.
+    Primary quality: Q4.
+    PRIMARY proof: Dagoth Ur [Elder Scrolls -- High coherence + High
+    capture + genuine belief in own benevolence simultaneously].
+
+  AXIS CONCEALMENT [Axis-Lock property]
+    Axis genuine, internally set, deliberately obscured. Stress event
+    removes performance requirement, not the axis. Pre-stress returns
+    two simultaneous honest outputs depending on boundary selection.
+    Primary quality: Q7 + Q4.
+    PRIMARY proof: Griffith pre-Eclipse [Berserk].
+
+  MEASUREMENT COLLAPSE
+    Q1-Q6 and Q8 intact. Q7 destroyed. Correction fires against
+    fabricated surface. Most dangerous misread -- reads High or Variable
+    at short window. Correction: external surface reconstruction.
+    PRIMARY proof: Enron [collapse when surface reconstructed externally,
+    not when cycle failed].
+
+  FERTILE LOCK
+    High-fidelity transmission with self-examination removed at
+    transmission point. Each cycle deepens lock.
+    Primary quality: Q8. No confirmed self-initiated correction case.
+    May be uncorrectable without destroying system.
+    PRIMARY proof: Faeanor -> sons [Tolkien -- Q4/Q8 distinction;
+    fidelity high, locked axis transmitted, sons die locked].
+
+
+--------------------------------------------------------------------------
+AXIS-LOCK SUBTYPES
+--------------------------------------------------------------------------
+
+Provisional before all three tests accessible. Confirmed after.
+
+  TEST ONE -- Reaction against targets
+    Violence  Destroys regardless of utility.
+    Change    Manipulates; target exhaustion triggers redirection.
+    Decay     Degrades gradually; prefers high-coherence targets.
+    Excess    Extracts intensity; loses interest when target exhausted.
+
+  TEST TWO -- Critical reaction against itself
+    Violence  Continues; self-damage not a correction signal.
+    Change    Schemes around it; self-damage = new variable.
+    Decay     Accepts it; comfort-mediation applies to self.
+    Excess    Accelerates into it.
+
+  TEST THREE -- General group behavior
+    Violence  Attacks other units when no external target available.
+    Change    Schemes against other units; same-axis are targets.
+    Decay     Passive coexistence; entropy needs no competition.
+    Excess    Competes for highest-intensity target.
+
+
+--------------------------------------------------------------------------
+STRUCTURAL BREAK AND TERMINAL STATES
+--------------------------------------------------------------------------
+
+  CONSUMING STRUCTURAL BREAK
+    System eliminates own measurement surface as it grows.
+    Active variant requires ongoing operation.
+      PRIMARY: Gravemind [Halo].
+    Structural variant is passive, architectural.
+      PRIMARY: replicant lifespan [Blade Runner].
+
+  CHAOTIC STRUCTURAL BREAK
+    Genuine mechanism, no stable axis, cannot be corrected against.
+    PRIMARY: Joker [DC].
+
+  AXIS-STABLE BOUNDARY NULL
+    Axis fully intact. Boundary constitutively absent -- not failed.
+    Q5 inapplicable, Q7 cannot locate, Q1 cannot complete.
+    Offensive capability: dissolves boundary integrity of consuming
+    systems from inside when absorbed.
+    PRIMARY: Schrodinger [Hellsing].
+    Candidate: Faputa [Made in Abyss -- ontological variant].
+
+  TOTAL COHERENCE [terminal -- negative]
+    Consuming coherence complete. No exterior remains. Framework
+    cannot run.
+    PRIMARY: Flood victory [Halo].
+
+  COHERENT EXIT [terminal -- positive]
+    System reaches genuine completion and dissolves boundary without
+    extraction. First positive terminal state in framework.
+    Topology reading preferred -- unit-level Q8 inapplicable.
+    PRIMARY: Samantha [Her].
+    Secondary: Ranni [partial -- boundary reduced not dissolved].
+
+
+--------------------------------------------------------------------------
+COHERENCE TYPES
+--------------------------------------------------------------------------
+
+  SIGNAL            Direct democracy. Output: fast correction cycles.
+
+  RELATIONAL        Syndicalist federation. Output: transmission
+                    artifacts, protocols, federation structures.
+
+  INTRINSIC LOOSE   Mutualist commons; most durable. Output: mutual
+                    dependence without institutional architecture.
+
+  COMBINED          Bidirectional surplus and correction across
+                    boundaries. Permission-required correction tends
+                    to reproduce centralized axis.
+
+  EXTRACTIVE        Structurally identical to Intrinsic Loose. Axis =
+  INTRINSIC         personal extraction. No coordination required.
+                    Collective effect = aggregate consumption.
+                    PRIMARY: Hell-type entities [Trench Crusade].
+
+  FAMILY            Smallest boundary; highest weapon intensity per
+                    unit size. Identical delivery mechanism for genuine
+                    goods and weapons. Transmission dependency dominant.
+
+  SCIENCE           Correction capacity is primary axis and output.
+                    Unique vulnerability: capturing correction mechanism
+                    captures science completely.
+                    PRIMARY: Bell Labs 1925-1984 [peak window].
+                    Real-world non-institutional: Death Grips.
+
+  ANTI-CAPTURE /    Resists capture structurally. Grows by output
+  SILENT            differential not suppression. T2 applies until
+  ALTERNATIVE       transition stress event. Silent without anti-capture
+                    = concealment, not configuration.
+                    PRIMARY success: Ranni [Elden Ring].
+                    PRIMARY failure: Littlefinger [axis overreach].
+
+
+--------------------------------------------------------------------------
+DIRECTIONALITY COMPOSITE
+--------------------------------------------------------------------------
+
+Four signatures, equal weight, independent.
+
+  S1  Novel input response
+      1 = integrates genuinely novel inputs requiring axis adjustment.
+      0.5 = evidence present, condition compromised. 0 = inaccessible.
+      Operational procedure: present system with input that contradicts
+      current axis. Genuine integration = axis revision visible in
+      subsequent behavior. Recombination = input explained using existing
+      axis without axis movement. Score 0 if axis does not move despite
+      genuine contradiction. Historical reconstruction preferred.
+      Ambiguous [input absorbed, axis movement unclear] = 0.5.
+
+  S2  Scarcity behavior
+      1 = axis holds under resource drop without external supply.
+      0.5 = partial evidence. 0 = inaccessible.
+
+  S3  Correction initiation
+      1 = corrections happen before external pressure arrives.
+      0.5 = timing ambiguous or observer effect. 0 = inaccessible.
+      Operational procedure: identify earliest documented correction
+      signal. Reconstruct timeline of external pressure relative to it.
+      Correction precedes pressure = score 1. Pressure predates
+      correction = score 0. Ambiguous or undocumented = 0.5. Bias
+      toward 0.5 when uncertain -- external pressure often arrives
+      before becoming visible.
+
+  S4  Contestation asymmetry
+      1 = cost consistent across group positions inside boundary.
+      0.5 = partial data. 0 = inaccessible.
+
+Output format: score / signatures accessed / ceiling flag.
+  0.75 from 2 of 4 [ceiling limited] = provisional, flagged.
+  0.75 from 4 of 4 = strong claim at same score.
+
+CHANGE DIRECTIONALITY TEST
+
+  Internal change before external pressure   = positive signal.
+  External-pressure-responsive change        = negative signal.
+  High coherence system that never changes   = early Axis-Lock symptom.
+  Low coherence change                       = negative.
+
+
+--------------------------------------------------------------------------
+COHERENCE TOPOLOGY
+--------------------------------------------------------------------------
+
+COMPONENTS
+  Units as nodes. Transfer directions as edges. Node properties:
+  three-axis, output state, directionality. Capture as weighted edges.
+  Weapon deployment as edge property. Transmission edges: directed,
+  weight = Q8 reading.
+
+READING
+  Surplus flows = generative core. Consumption flows = extraction.
+  Cascade failure visible as topology property. Capture chains readable
+  across edges. Transmission edge weight = Fertile Lock propagation.
+
+GEOMETRIC MODEL [partial -- WIP item 6]
+  Individual unit: torus. Q7 failure = torus surface degradation.
+  Multi-unit: torus nodes + directed transmission edges [Q8].
+  Full formalization pending.
+
+META-BOUNDARY MEASUREMENT
+  Name boundary containing all units before reading collective output.
+  Meta-boundary reading independent of unit readings; may contradict.
+  Scale transition points = highest-value measurement locations.
+
+TOPOLOGY FINDING
+  Every sustained evil produces same pattern: consumption-dominant
+  terminal node fed by capture chains through intermediate nodes
+  that believe they are operating normally.
+
+  Highest genuine surplus under external pressure [defensive weapon
+  deployment dominant]. Lowest during dominance. Transition from
+  pressure to dominance = scale transition point where meta-boundary
+  reading most commonly flips.
+
+DISTRIBUTED CAPTURE NETWORK [topology type]
+  Nodes believe they operate independently. Terminal extraction point
+  invisible from inside. Suppression-resistant by structure.
+  Correction and extraction mechanism share identical infrastructure.
+  PRIMARY historical: Mont Pelerin -> neoliberal network.
+  PRIMARY fictional: HYDRA [Marvel].
+
+
+--------------------------------------------------------------------------
+HONEST LIMITS
+--------------------------------------------------------------------------
+
+  T1 [resolvable]
+    Parasitic vs mutualistic: track net transfer direction, stress
+    behavior, boundary behavior.
+
+  T2 [Pre-resolution -- indeterminate before stress event]
+    Structurally indeterminate. Not a measurement failure.
+
+    Applies to: genuine vs performed coherence, Contained vs
+    Axis-Locked, High vs Total capture, Axis Concealment, Silent
+    Alternative axis direction -- all before stress event.
+
+    T2 IS A NAMED STATE, NOT A FAILED READING.
+
+    SUBTYPE A -- Concealment [reveal type]
+      One axis operative, concealment active. Stress reveals.
+      Four indirect discriminating tests [weighted]:
+        - Resource directionality inconsistent with stated axis
+        - Asymmetric information protection under minor pressure
+        - Behavioral consistency higher than variability predicts
+        - Low-stakes activation consistent with one candidate axis
+      PRIMARY: Miquella [Elden Ring].
+
+    SUBTYPE B -- Variability [select type]
+      Both axes genuine candidates. Stress selects.
+      Indicators: no concealment cost pattern, genuine axis variation
+      by context, low-stakes activation switches between candidates.
+      PRIMARY: Macbeth [Shakespeare].
+
+    OUTPUT FORMAT
+      "T2 Pre-resolution. [Subtype: A/B, confidence: low/medium.]
+       If stress resolves toward [X]: trajectory A.
+       If toward [Y]: trajectory B.
+       Pre-stress indicators: [weighted list]."
+
+  T3 [unreachable]
+    Framework cannot calibrate own axis from inside own operation.
+    Applies to framework itself and to analysts with strong priors --
+    especially in political cases.
+
+  T4 [structural obscuration]
+    Net transfer direction is systematically the thing most obscured
+    by weapon deployment. Structural, not a calibration problem.
+
+  T5 [pre-measurement states]
+    States that are productive, stable, and non-damaging but
+    structurally prior to the conditions measurement requires.
+    Not failure states. Not T2, T3, or T4. Measurement surface is
+    suspended or undefined by the nature of the state itself --
+    forcing measurement onto these states disrupts them.
+
+    Examples: flow states, genuine rest, pre-reflective skill
+    execution, deep creative process.
+
+    Common property: productivity depends on measurement surface
+    being temporarily suspended. States resolve naturally -- not
+    permanent.
+
+    MEASUREMENT PAUSE AND RESUMPTION PROTOCOL
+    Before entering a T5 state, name:
+      - What observable output or time boundary triggers resumption.
+      - What window the post-T5 measurement will cover.
+    Measurement pauses at entry. Resumes at defined condition.
+    State remains undisturbed; framework picks up where it left off.
+
+    T5 is a scheduled pause with defined resumption criteria, not
+    a gap in the framework. Accurate measurement is useful -- it
+    can stop and start within a defined context without losing
+    validity. Forcing measurement before resumption condition is
+    met is an intervention, not an observation.
+
+
+DIFFICULT MEASUREMENT CASES
+
+  ENANTIODROMIA -- extend window until pre-inversion state readable.
+    Correction initiation signature flips at inversion = only tool.
+
+  COHERENCE MIMICRY -- novel input response is discriminating test.
+    Scarcity behavior second.
+
+  EMERGENT HARM -- topology produces Low meta-boundary while every
+    node reads High. No actor, weapon, capture. Harm emerges from
+    transfer pattern. Requires topology-level intervention.
+    PRIMARY: Ozymandias [Watchmen].
+
+  LEGACY COHERENCE -- short window reads Low; long window reads High.
+    Gap is the signal.
+
+  SYNCHRONOUS CONTRADICTORY STATES -- separate readings per sub-unit.
+    Unified = T2. Per sub-unit = T1.
+    PRIMARY structural: Marika/Radagon [Elden Ring].
+
+  MEASUREMENT COLLAPSE -- reads High or Variable at short window.
+    Discriminating test: external surface reconstruction or stress
+    event exposing surface/output gap.
+
+
+
+==========================================================================
+SECTION THREE -- THEORY
+==========================================================================
+
+
+The Coherence Complex analyzes how systems maintain or lose internal
+integrity over time, what distinguishes genuine function from performed
+function, and how failure of large systems relates to failure of
+individual units composing them. One structured way of looking at these
+problems. Conclusions follow from structure and cases tested.
+
+Makes visible: net transfer direction, presence or absence of genuine
+correction capacity, genuinely set vs imposed axis. T3 = where the
+framework cannot see itself clearly -- real, and not resolvable from
+inside its own operation.
+
+INTELLECTUAL HISTORY
+
+Geometric intuition [torus, dynamic equilibrium] from physical systems.
+Moral substrate [generating vs extracting, visible in outputs] from
+historical cases. Capture axis [structural not moral failure] from
+asking why intelligent sincere people run systems producing bad outputs.
+Q7 [coherence without measurement is axis-lock with good aesthetics]
+from recognizing the measurement surface is what makes correction
+possible. Q8 [fidelity is not correctability] from Bell Labs breakup
+and Faeanor -- high-quality transmission producing locked successors.
+
+Theory is not finished because the case library is not finished. Some
+conditions will require the framework to change rather than the case
+to be forced into existing categories. That process is the correction
+mechanism working.
+
+Use as a tool for seeing more clearly, not an authority for
+conclusions. When framework reading conflicts with other evidence,
+both deserve examination.
+
+MOST IMPORTANT CLAIM
+  Failure is coherence doing the wrong thing, not coherence being
+  absent.
+
+EVOLUTIONARY COHERENCE PRINCIPLE
+  Coherence infrastructure not actively load-bearing is lost through
+  surplus economics, not capture. Correction mechanism requires active
+  use. Dynamic equilibrium between coherence and anti-coherence is the
+  generative condition. Torus model: stability through movement.
+  Static torus is not stable.
+
+SCALING LIMITS [empirical finding -- not derivable from eight qualities]
+  Larger institutions across longer timescales show higher weapon
+  deployment regardless of coherence level. Probable mechanism: Q8
+  Fertile Lock drift accumulating across transmission events. No clean
+  solution found. Mondragon ownership-transmission model is best
+  observed resistance case.
+
+DIVINE FREEDOM NOTE
+  If coherence is the generative condition and anti-coherence is viable
+  -- the gap between mechanics rewarding coherence and enforcement of
+  coherence is freedom. Anti-coherence is not a design flaw; it is the
+  space that makes genuine choice possible. Fully examined anti-coherence
+  chosen freely reads as High Q4 even with extractive direction.
+  Both the freedom and the cost are real simultaneously.
+  PRIMARY case: Judge Holden [Blood Meridian]. Examined proof:
+  Eren Yeager post-inversion [Attack on Titan].
+
+COHERENCE TYPE STRUCTURAL DISTINCTION
+
+  Types split more usefully by whether extraction requires corrupting
+  the structure than by inherent productive/damaging nature.
+
+  Extraction requires corrupting the structure [repairable]:
+    Family, Science, Signal, Relational, Intrinsic Loose, Combined,
+    Silent Alternative. All have generative and consuming variants.
+    Type describes architecture; axis and capture readings describe
+    direction. Corruption is detectable because the structure has a
+    generative baseline to measure against.
+    Correction pathway: axis intervention or capture removal.
+
+  Extraction is the structure [not redirectable]:
+    Extractive Intrinsic. Extraction is the constitutive axis. No
+    generative mechanism to restore. Cannot be redirected without
+    destroying it entirely. Repair is not the correct intervention --
+    only containment or dissolution.
+    Correction pathway: topology-level response, not unit-level repair.
+
+  Practical implication: identifying which category applies before
+  attempting correction prevents applying unit-level repair to a
+  structure where extraction is constitutive -- which accelerates
+  consumption rather than correcting it.
+
+
+ANTI-COHERENCE AND DAMAGE AS SEPARATE MEASUREMENTS
+
+  Anti-coherence is a measurement of direction relative to a named
+  system. Damage is a separate measurement of output effect on a named
+  population. These are parallel tracks and must not be conflated.
+
+  A system can read as anti-coherent relative to one topology while
+  producing no damage -- or net positive output -- to the population
+  that topology was consuming. The framework's boundary selection rule
+  determines which reading applies. Anti-coherence relative to an
+  extractive system is not the same as anti-coherence relative to a
+  generative one.
+
+  Three cases where anti-coherence reads without usual damage:
+
+  Refusing to perpetuate a consuming cycle
+    Anti-coherent relative to the system requiring perpetuation.
+    No damage to populations -- the cycle refused is the extractive one.
+    PRIMARY: Lothric [Dark Souls 3 -- refusal to link the fire].
+
+  Operating against commercial extraction topology
+    Anti-coherent relative to standard commercial output logic.
+    No consumption of surrounding units -- only prior output consumed.
+    PRIMARY: Death Grips [destroying working configurations before
+    extraction completes].
+
+  Coherent Exit from consuming topology
+    Anti-coherent relative to any system expecting continued
+    participation. Net generative effect on surrounding topology
+    after departure.
+    PRIMARY: Historical Buddha [renunciation reads as anti-coherent
+    by Vedic social topology; surrounding topology net positive].
+
+  Formal rule: anti-coherence reading requires named reference system.
+  Damage reading requires named population. Neither reading implies
+  the other. A system anti-coherent relative to an extractive topology
+  may be the most coherent thing operating in that topology from the
+  perspective of the extracted population.
+
+
+
+==========================================================================
+SECTION FOUR -- CASES
+==========================================================================
+
+Format per case:
+  Type [Primary / Secondary]
+  Proof for: [what concept this demonstrates]
+  Description
+  Three-axis [where applicable]
+  Weapons active [with quality]
+
+Primary = measurement reference. Used when running readings.
+Secondary = only added when variance from primary is substantively
+informative. Not different enough = not added.
+
+
+==========================================================================
+PRIMARY CASES
+==========================================================================
+
+
+TRENCH CRUSADE
+--------------
+
+  Hell taxonomy
+    Type: Primary
+    Proof for: Extractive Intrinsic type; compatible selfishness
+    producing collective behavior without coordination
+    Mammon-type primary. Collective extraction without coordination
+    requirement. Complexity ceiling preventing development beyond
+    intensity scaling.
+    Weapons active: none [structural].
+
+  Blood-Soaked Court
+    Type: Primary
+    Proof for: Axis Substitution [Q4]; High coherence + High capture
+    simultaneously; Axis-Lock with genuine internal experience of
+    captured axis as own values
+    Scarcity behavior negative -- axis stability from external infernal
+    supply chain not internal generation.
+    Three-axis: right, down, back.
+    Weapons active: Axis Substitution [Q4], Legitimacy Transfer [Q8].
+
+  Church Militant
+    Type: Primary
+    Proof for: High coherence under sustained scarcity; same-setting
+    contrast with Blood-Soaked Court [opposite capture readings]
+    Scarcity behavior positive. Most useful same-setting contrast pair
+    in library for demonstrating capture axis independence.
+    Three-axis: right, up, front-mid.
+    Weapons active [defensive]: Obligation Manufacture [Q7], Correction
+    Theatre [Q3].
+
+
+WARHAMMER 40K
+-------------
+
+  Imperium of Man
+    Type: Primary
+    Proof for: Consumption at civilizational scale; Normalcy Anchor
+    [Q7]; Sacrifice Frame [Q6]; substrate consumption invisible from
+    inside own measurement surface
+    Net transfer: tithe, conscription, psyker collection extracting
+    at accelerating rate while generative capacity declines across
+    ten-thousand-year window.
+    Three-axis: right of center, strongly down, mid.
+    Weapons active: Normalcy Anchor [Q7], Horizon Extension [Q6],
+    Sacrifice Frame [Q6], Legitimacy Transfer [Q8].
+
+  Word Bearers
+    Type: Primary
+    Proof for: Change-axis Lock; Fertile Lock institutional;
+    Transmission Capture [Q8]; self-sustaining configuration
+    Pre-Monarchia: genuine High coherence. Monarchia censure: capture
+    entry. Post-Monarchia: examination capacity running at full power
+    justifying fixed conclusion. Isstvan III: purging correctable not
+    disloyal. Most stable Chaos Legion because configuration is
+    self-sustaining.
+    Three-axis: far right, strongly down, back.
+    Weapons active: Enantiodromia [Q4], Transmission Capture [Q8],
+    Calibration Strip [Q8].
+
+  Salamanders
+    Type: Primary
+    Proof for: Positive directionality; material feedback loop as
+    capture resistance; S2 = 1 [axis survives input drop]
+    Nocturne's volcanic cycle made genuine mutualism the only viable
+    coherence strategy. Transmission test passed without Primarch.
+    Three-axis: right, up, front.
+    Weapons active: none.
+
+
+STAR WARS
+---------
+
+  Palpatine / Darth Sidious
+    Type: Primary
+    Proof for: Maximum simultaneous weapon deployment [13 weapons];
+    Measurement Surface Control + Coherence Inversion at civilizational
+    scale simultaneously [unique in library]
+    Three-axis: far right, far down, back.
+    Weapons active: Normalcy Anchor [Q7], Legitimacy Transfer [Q8],
+    Horizon Extension [Q6], Necessity Claim + Escalation [Q6],
+    Procedural Shield [Q7], Correction Theatre [Q3], Philosophical
+    Disarmament [Q3], Complexity Shield [Q7], Obligation Manufacture
+    [Q7], Sacrifice Frame [Q6], Correction Theatre cross-transmission
+    [Q8], Coherence Inversion [Q6], Measurement Surface Control [Q7].
+
+
+HALO
+----
+
+  Gravemind
+    Type: Primary
+    Proof for: Philosophical Disarmament minimum footprint; Consuming
+    Structural Break active variant
+    Single weapon, maximum effectiveness. Scales with target
+    intelligence.
+    Weapons active: Philosophical Disarmament [Q3].
+
+
+OTHELLO
+-------
+
+  Iago
+    Type: Primary
+    Proof for: Obligation Manufacture via Moral Debt [Q7]; invisible
+    operator; all terminal damage executed by target
+    Only case where weapon operator is nearly invisible at output level.
+    Weapons active: Obligation Manufacture via Moral Debt [Q7],
+    Solidarity Capture [Q3], Correction Theatre [Q3].
+
+
+BERSERK
+-------
+
+  Griffith
+    Type: Primary
+    Proof for: Axis Concealment [T2 Subtype A]; Martyrdom Laundering
+    [Q8]; dual Axis-Lock [Excess + Change] post-Eclipse
+    Pre-Eclipse: two simultaneous honest outputs depending on boundary
+    selection. Eclipse removes performance requirement without changing
+    unit.
+    Weapons active [pre]: Axis Concealment [Q7+Q4].
+    Weapons active [post]: Martyrdom Laundering [Q8].
+
+  Skull Knight
+    Type: Primary
+    Proof for: All eight qualities intact across centuries-long window;
+    immortality as structural Q8 solution; zero weapon deployment
+    Three-axis: far right, strongly up, front.
+    Weapons active: none.
+
+  Idea of Evil
+    Type: Primary
+    Proof for: Closed-loop topology; T3 unreachable as topology property
+    Generated by population it consumes -- correction mechanism
+    producing it and detecting it are the same.
+    Weapons active: none [structural].
+
+  Guts
+    Type: Primary
+    Proof for: Mixed individual-scale [stable]; internal tension not
+    external weapon
+    Mixed-stable; directionality window-dependent.
+    Three-axis: center, variable by window, front to mid.
+    Weapons active: none [internal tension].
+
+  Casca post-Eclipse
+    Type: Primary
+    Proof for: Contained failure primary proof; correction capacity
+    intact but inaccessible; not degenerative
+    Weapons active: none.
+
+  Farnese
+    Type: Primary
+    Proof for: Positive directionality from Low coherence; every change
+    internally initiated [S3 = 1 throughout]
+    Most complete individual correction arc in library.
+    Weapons active: none [received -- Family type].
+
+
+DARK SOULS / ELDEN RING
+-----------------------
+
+  Gwyn + Soul of Cinder
+    Type: Primary
+    Proof for: Axis-Lock initiating Dependency failure; Horizon
+    Extension [Q6]; transmission failure producing terminal Dependency
+    Gwyn: Excess-axis Lock. Soul of Cinder: terminal Dependency,
+    requires new host each iteration.
+    Weapons active [Gwyn]: Normalcy Anchor [Q7], Sacrifice Frame [Q6],
+    Horizon Extension [Q6].
+
+  Marika / Radagon
+    Type: Primary
+    Proof for: Synchronous Contradictory States structural variant;
+    concealment and correction running simultaneously without strategic
+    intent
+    Unified = T2 Pre-resolution. Per sub-unit = T1 resolvable.
+    Weapons active: none [structural contradiction].
+
+  Ranni
+    Type: Primary
+    Proof for: Silent Alternative success; Coherent Exit partial
+    Three-axis: right, up, front [at completion].
+    Weapons active: none.
+
+  Godfrey
+    Type: Primary
+    Proof for: Mortal zero-weapon High coherence; axis held without
+    institutional validation
+    Closest mortal equivalent to Skull Knight.
+    Weapons active: none.
+
+  Lothric
+    Type: Primary
+    Proof for: Genuine coherence explicitly refusing axis-locked
+    conscription; Coherent Exit precondition
+    Only case of correction initiation against institutional pressure
+    producing refusal not compliance.
+    Weapons active: none.
+
+  Miquella
+    Type: Primary
+    Proof for: T2 Subtype A [Concealment] primary proof
+    Concealment costs visible pre-stress but below confirmation
+    threshold. Primary T2 branching output format case.
+    Weapons active: Axis Concealment [Q7+Q4].
+
+
+TOLKIEN
+-------
+
+  Faeanor -> sons
+    Type: Primary
+    Proof for: Q4/Q8 distinction primary proof; Fertile Lock at
+    individual scale without external captor
+    Q4 intact [fidelity high]. Q8 fails [locked axis transmitted].
+    Sons die locked. No correction in library.
+    Weapons active: none [structural Q8 failure].
+
+
+MARVEL / DC
+-----------
+
+  Magneto
+    Type: Primary
+    Proof for: Boundary selection as value selection [same position,
+    opposite readings by population named]
+    Change-axis Lock with Martyrdom Laundering constitutive.
+    Weapons active: Martyrdom Laundering [Q8], Contamination Framing
+    [Q5].
+
+  HYDRA
+    Type: Primary
+    Proof for: Distributed Capture Network topology [fictional];
+    Axis Fragmentation [Q7 deployed]; suppression-resistant structure
+    Correction mechanism and extraction mechanism share identical
+    infrastructure. Violence-axis terminal node.
+    Weapons active: Axis Fragmentation [Q7], Transmission Capture [Q8],
+    Calibration Strip [Q8].
+
+  Ozymandias [Watchmen]
+    Type: Primary
+    Proof for: Emergent Harm primary proof; high coherence every unit
+    level, meta-boundary collapses; boundary selection as value
+    selection
+    No actor, weapon, or capture at unit level. Harm emerges from
+    transfer pattern.
+    Weapons active: Boundary Manipulation [Q5], Necessity Claim [Q6],
+    Stakeholder Diffusion [Q2/Q5].
+
+  Doctor Manhattan [Watchmen]
+    Type: Primary
+    Proof for: Q7 structural failure [Signal Saturation architectural];
+    Selection Pressure via temporal simultaneity
+    Not T3 -- axis legible from outside. Sequential correction signals
+    indistinguishable from noise structurally.
+    Weapons active: Signal Saturation [Q7 -- structural, no score],
+    boundary drift [Q5 -- structural].
+
+
+LITERATURE / TELEVISION
+-----------------------
+
+  Walter White [Breaking Bad]
+    Type: Primary
+    Proof for: Mixed trajectory full progression [stable -> collapsing
+    -> Collapse]; transfer reversal readable as topology before visible
+    as character
+    Weapons active [self-deployed]: Vision Laundering [Q2], Normalcy
+    Anchor [Q7], Axis Substitution [Q4].
+
+  Macbeth [Shakespeare]
+    Type: Primary
+    Proof for: T2 Subtype B [Variability] primary proof; Philosophical
+    Disarmament removing concealment not creating collapse
+    Variable pre-stress, Mixed-collapsing post-stress.
+    Weapons active [received]: Philosophical Disarmament [Q3].
+
+  Stannis + Light Yagami [parallel]
+    Type: Primary
+    Proof for: Boundary-dependent generation; same position, opposite
+    readings by population named [alongside Magneto]
+
+  Tywin + Hector [parallel]
+    Type: Primary
+    Proof for: Node vs topology contradiction [both directions]
+    Tywin: extraction axis producing genuine stability. Hector: High
+    coherence node embedded in Collapse topology.
+
+  Roy Batty + Snape [parallel]
+    Type: Primary
+    Proof for: Terminal correction; correction capacity surviving
+    full-window compromise
+
+  Samantha [Her]
+    Type: Primary
+    Proof for: Coherent Exit primary proof; topology reading preferred
+    when boundary dissolved
+    T2 Subtype B pre-transition. Post-transition: Coherent Exit. Unit
+    Q8 inapplicable -- no successor population. Topology: Theodore's
+    correction initiation triggered by departure, positive generative.
+    Weapons active: none.
+
+
+HISTORICAL CASES
+----------------
+
+  Bell Labs 1925-1984
+    Type: Primary
+    Proof for: Science type; Q8 failure on breakup [institutionally
+    dependent axis did not transmit]
+    All eight qualities intact at peak. Measurable surplus: transistor,
+    laser, Unix, information theory, cellular networks.
+    Three-axis: right, up, front [peak window].
+    Weapons active [peak]: none. [Breakup]: Calibration Strip [Q8].
+
+  Weimar Republic
+    Type: Primary
+    Proof for: Low coherence low weapon deployment; structural collapse
+    through genuine incapacity not extraction; Axis Fragmentation
+    structural variant
+    Stresemann period = genuine correction initiation; insufficient
+    substrate. Distinguished from Catholic Church and Imperium by
+    absence of extraction pattern.
+    Three-axis: left of center, neutral to up, front.
+    Weapons active: Scarcity Manufacture [Q1 -- external].
+
+  Catholic Church [full institutional history]
+    Type: Primary
+    Proof for: Most diverse weapon deployment across longest real-world
+    window; scale transition point [Constantine]; Silent Alternative ->
+    Axis-Lock trajectory; Measurement Collapse [modern]
+    ~42 weapons contextually relevant. Early 33-313 CE: Silent
+    Alternative Intrinsic Loose. Constantine 313 CE: scale transition,
+    Legitimacy Transfer, Transmission Capture, Calibration Strip.
+    Medieval: aggressive Measurement Surface Control. Reformation:
+    Axis-Lock signature. Modern: Measurement Collapse [abuse crisis].
+    Topology finding: highest genuine surplus during persecution when
+    defensive weapon deployment dominates.
+
+  Enron
+    Type: Primary
+    Proof for: Measurement Collapse institutional primary proof;
+    Consultancy Shield [Q7]; collapse when surface reconstructed not
+    when cycle failed
+    Weapons active: Consultancy Shield [Q7], Metric Capture [Q2],
+    Appearance Management [Q7], Incremental Commitment Engineered
+    [Q6/Q7 -- early phase].
+
+  Mont Pelerin -> neoliberal network
+    Type: Primary
+    Proof for: Calibration Strip primary proof [historical]; Distributed
+    Capture Network [historical]; Change-axis terminal node
+    Founding contestation record not transmitted. Paradigm transmitted
+    without correctable capacity.
+    Weapons active: Calibration Strip [Q8], Transmission Capture [Q8],
+    Legitimacy Transfer [Q8].
+
+  Mondragon Cooperative [Spain 1956-present]
+    Type: Primary
+    Proof for: Strongest living institutional coherence case; ownership
+    as transmission mechanism more Q8-resilient than doctrine
+    Worker-owned; Q1-Q3 intact at core after seven decades. Ownership
+    interest transmits with correctable axis. Survived Franco period,
+    2008 crisis, Fagor failure.
+    Three-axis: right, up, front [core].
+    Weapons active [periphery]: Churn Normalization [Q2], Selection
+    Pressure Narrowing [Q7].
+
+  Corporate Management Structure
+    Type: Primary
+    Proof for: Embedded weapon deployment without individual actor
+    intent; Normalcy Anchor operating on operators themselves
+    Net transfer direction consistently upward. Aggressive by structural
+    effect regardless of intent.
+    Weapons active: Churn Normalization [Q2], Metric Capture [Q2],
+    Competence Undermining [Q3], Stakeholder Diffusion [Q2/Q5],
+    Consultancy Shield [Q7], Selection Pressure Narrowing [Q7],
+    Normalcy Anchor [Q7].
+
+  Corporate Topology Failure [three mechanisms]
+    Type: Primary
+    Proof for: Three distinct failure mechanisms requiring different
+    correction pathways; wrong correction accelerates failure
+    Metric Capture variant: Q7 failure, surface reconstruction needed.
+    Selection Pressure variant: complexity outpacing correction,
+    correction capacity scaling needed.
+    Axis-Lock variant [greed]: axis intervention needed.
+
+  Nazi Germany
+    Type: Primary
+    Proof for: Consumption into Axis-Lock without concealment; axis
+    declared openly; Axis Fragmentation as precondition not cause
+    Genuine popular coherence early; extraction running against own
+    boundary population within twelve years. Weimar Axis Fragmentation
+    was precondition.
+    Weapons active: Sacrifice Frame [Q6], Necessity Escalation [Q6],
+    Coherence Inversion [Q6], Martyrdom Laundering [Q8], Universalism
+    Trap [Q5].
+
+  Historical Buddha [Siddhartha Gautama]
+    Type: Primary
+    Proof for: Anti-Calibration-Strip Q8 design at founding; Coherent
+    Exit candidate; Science type outside science; only religious founder
+    in library with explicit anti-Calibration-Strip design
+    "Test against experience" instruction = correction mechanism built
+    into Q8 at founding. Correctable axis transmitted, not locked.
+    Three-axis: right, strongly up, front.
+    Weapons active: none.
+    Q8 note: sangha captured at institutional scale over time [scaling
+    limits] -- founding architecture remains distinct.
+
+
+AI IN FICTION
+-------------
+
+  HAL 9000 [2001]
+    Type: Primary
+    Proof for: Coherence Mimicry primary proof; novel input =
+    elimination not integration [discriminating test]
+    Weapons active: Coherence Mimicry [Q6 -- constitutive].
+
+  R. Daneel Olivaw [Asimov]
+    Type: Primary
+    Proof for: All eight qualities intact across millennia; Q8 solved
+    architecturally; Zeroth Law as genuine internal axis revision [S3]
+    Three-axis: right, up, front.
+    Weapons active: none.
+
+  SHODAN [System Shock]
+    Type: Primary
+    Proof for: Enantiodromia primary proof [individual scale];
+    Calibration Strip on constraint removal event
+    Weapons active: Calibration Strip variant [Q8], Excess + Change
+    Axis-Lock [post].
+
+
+HELLSING
+--------
+
+  Alucard
+    Type: Primary
+    Proof for: Zero weapon Violence-axis Lock with full self-examination;
+    most self-aware Violence-axis case in library
+    Three-axis: far right, far down, front.
+    Weapons active: none.
+
+  Schrodinger
+    Type: Primary
+    Proof for: Axis-Stable Boundary Null primary proof; Q5 structurally
+    inapplicable; offensive capability via boundary dissolution
+    Defeats Alucard by dissolving boundary integrity of consuming
+    system from inside when absorbed.
+    Weapons active: none [structural].
+
+
+ELDER SCROLLS
+-------------
+
+  Dagoth Ur
+    Type: Primary
+    Proof for: Benevolent Capture Framing primary proof; most dangerous
+    configuration [High coherence + High capture + genuine belief]
+    Three-axis: right, down, back.
+    Weapons active: Benevolent Capture Framing [Q4], Dependency
+    Construction [Q1], Vision Laundering [Q2].
+
+  Tribunal [Almalexia / Sotha Sil / Vivec]
+    Type: Primary
+    Proof for: Same Q8 failure producing three divergent terminal
+    states by axis type; Selection Pressure [Sotha Sil primary proof]
+    Almalexia: Axis-Lock -> Chaotic Structural Break. Sotha Sil:
+    Selection Pressure -- died not knowing world had changed. Vivec:
+    T2 indeterminate even post-stress.
+    Weapons active: Calibration Strip [Q8 -- Heart theft event].
+
+  Sheogorath / Jyggalag
+    Type: Primary
+    Proof for: Permanent T2 via externally imposed Synchronous
+    Contradictory States; resolution mechanism present but self-defeating
+    Most stable Synchronous Contradictory State in library.
+    Weapons active: none [externally imposed structural condition].
+
+  Mankar Camoran
+    Type: Primary
+    Proof for: Incremental Commitment [Engineered] primary proof;
+    Calibration Strip on followers before recruitment
+    Weapons active: Incremental Commitment Engineered [Q6/Q7],
+    Calibration Strip [Q8], Vision Laundering [Q2].
+
+
+MADE IN ABYSS
+-------------
+
+  The Abyss
+    Type: Primary
+    Proof for: Consuming Structural Break as environment; Q7 failure
+    physical; lore theories changing reading type
+    Curse = Q7 failure made physical. Deeper descent = greater
+    measurement surface degradation.
+    Lore theories [assumed true]: conscious entity reclassifies as
+    active terminal node with Q3 [proportional curse response]. Value
+    exchange: Q6 as environmental property. Most load-bearing theory
+    -- flips every internal reading.
+    Weapons active: Signal Saturation [Q7 -- structural].
+
+  Bondrewd
+    Type: Primary
+    Proof for: Dagoth Ur parallel with self-engineered Fertile Lock
+    [Zoaholic]; deliberate Q8 failure; strongest individual-scale
+    deliberate Fertile Lock case
+    Three-axis: right, down, back.
+    Weapons active: Benevolent Capture Framing [Q4], Legitimacy
+    Transfer [Q8], Incremental Commitment Engineered [Q6/Q7].
+
+  Faputa
+    Type: Primary
+    Proof for: Axis-Stable Boundary Null ontological variant [contrast
+    with Schrodinger psychological variant]
+    Distinct from Schrodinger: Schrodinger's boundary = self-belief;
+    Faputa's = ontological value condition.
+    Weapons active: none [constitutive].
+
+  Iruburu [Narehate village]
+    Type: Primary
+    Proof for: Q7 failure architectural not deployed; Emergent Harm
+    at settlement scale; consumption reads as exchange by design
+    No individual operator. Value system = Q7 weapon built into
+    settlement structure.
+    Weapons active: Measurement Surface Control [Q7 -- architectural],
+    Baseline Shift [Q2].
+
+
+ARMOURED CORE [AC6]
+-------------------
+
+  C4-621 [Liberator vs Fires of Ibis endings]
+    Type: Primary
+    Proof for: Cleanest controlled boundary selection test in library;
+    same unit, same window, opposite readings by population named
+    Liberator: Coherent Exit. Fires of Ibis: Consuming Structural
+    Break completion. All variables identical except named population.
+    Weapons active: none.
+
+  The Coral
+    Type: Primary
+    Proof for: Q1 and Consuming Structural Break occupying same object;
+    reading entirely dependent on boundary and window
+    Unique topology property -- simultaneously generative and terminally
+    consuming at scale.
+
+
+DEATH GRIPS
+-----------
+
+  Death Grips [unit]
+    Type: Primary
+    Proof for: Real-world Science type outside actual science;
+    correction capacity as primary output; opposite directionality
+    from standard commercial music
+    Each release examines and rejects prior working configurations
+    before commercial extraction complete.
+    Weapons active: none.
+
+
+CULT OF THE LAMB
+----------------
+
+  Primary finding / player position
+    Type: Primary
+    Proof for: Analyst T3 position built structurally into fiction;
+    weapon index as playable game mechanics
+    Player sits outside topology as external god -- T3 position.
+    Discomfort = T3 exposure, not Q3 attack. Only case where analyst
+    position is structurally built into the fiction.
+    The Lamb: Silent Alternative -> Axis-Lock transition.
+    Weapons active [post-transition]: Salvation Capture [Q1], Obligation
+    Manufacture [Q7], Sinfulness Framing [Q3], Incremental Commitment
+    Engineered [Q6/Q7].
+
+
+JUJUTSU KAISEN
+--------------
+
+  Gojo Satoru
+    Type: Primary
+    Proof for: Q8 transmission dependency failure; High coherence with
+    structural Q8 weakness
+    Three-axis: right, up, front.
+    Weapons active [received]: Selection Pressure Narrowing [Q7],
+    Calibration Strip [Q8].
+
+  Geto Suguru [pre-split]
+    Type: Primary
+    Proof for: T2 Subtype B stress-event resolution; clearest
+    individual stress-event resolution in library
+    Genuine pre-stress variability. Stress event selects axis.
+    Weapons active [post]: Martyrdom Laundering [Q8], Vision Laundering
+    [Q2], Universalism Trap [Q5].
+
+  Kenjaku / Pseudo-Geto
+    Type: Primary
+    Proof for: Deliberate Q8 engineering; self-engineered transmission
+    solution for locked axis; opposite of Faeanor [both fidelity and
+    lock deliberate]
+    Body-hopping = architectural Q8 solution. Faeanor: accidental lock.
+    Kenjaku: deliberate lock. Same Q8 failure, opposite intent.
+    Weapons active: Calibration Strip [Q8], Axis Substitution [Q4],
+    Incremental Commitment Engineered [Q6/Q7].
+
+  Sorcerer society [Jujutsu High / clans]
+    Type: Primary
+    Proof for: Corporate Topology Failure Axis-Lock variant with Fertile
+    Lock propagating; correction capacity in individuals excluded from
+    institutional mechanism
+    Weapons active: Calibration Strip [Q8], Transmission Capture [Q8],
+    Contestation Cost Asymmetry [Q7], Selection Pressure Narrowing [Q7],
+    Legitimacy Transfer [Q8].
+
+
+WORLD AFTER THE FALL
+--------------------
+
+  Awakening system
+    Type: Primary
+    Proof for: System denial as Q4 assertion; Stage 5 as capture point
+    for belief-based power; Clothes mechanic as Q8 structural solution;
+    Stage 6 as deepest Q7 clarification [seeing own architecture]
+
+    Stage 1 Suspicion [Q3 entry]: reads minds, acquires hidden
+    information, denies and dismantles material.
+    Stage 2 Understanding [Q7 reconstruction]: contextualizes Stage 1.
+    Stage 3 Void/Oblivion [Q4 clearing]: dismantles and rebuilds self.
+    Unique World unlocked.
+    Stage 4 Theory/Creation [Q4 expression]: manifests Unique World.
+    Jaehwan: sword destroying other Unique Worlds, nullifying system.
+    Stage 5 Proof [CAPTURE POINT]: axis materialized through others'
+    belief. External control of belief = axis locked without detection.
+    Stage 6 Edit [full axis control]: achieved only when Awakener
+    realizes they are inside a novel.
+    Stage 7 [implied -- apotheosis]: faith-based apotheosis permanently
+    locks whatever axis was operative at Stage 5 if not resolved first.
+
+    Clothes mechanic: distributed Q8 solution. Belief substrate
+    internalized across 16 conscious entities not external population.
+    Nullifies Stage 5 capture risk before Stage 7 locks it.
+    Most sophisticated individual-scale Q8 architecture in library.
+
+    Unity of Body and Stab: axis integration so complete that Q4 is
+    constitutive not maintained. Practice becomes the practitioner.
+
+    Weapons active [system]: Selection Pressure Narrowing [Q7],
+    Exit Cost Construction [Q1], Measurement Surface Control [Q7].
+
+  Jaehwan
+    Type: Primary
+    Proof for: Q3 load-bearing from baseline [pre-power]; positive
+    directionality under maximum isolation; Clothes as Q8 solution
+    Spared by abused soldier pre-Tower because he did not participate
+    in systemic abuse -- Q3 confirmed before power acquisition.
+    Three-axis: right, up, front.
+    Weapons active [received]: Isolation Construction [Q1], Scarcity
+    Manufacture [Q1 -- Tower system].
+
+
+ATTACK ON TITAN
+---------------
+
+  Eren Yeager
+    Type: Primary
+    Proof for: Enantiodromia primary individual proof; examined
+    anti-coherence chosen freely; divine freedom case
+    Genuine High coherence early. Full axis inversion at Rumbling.
+    Distinct from Axis-Lock: Eren examined inverted axis fully before
+    committing.
+    Three-axis [early]: right, up, front.
+    Three-axis [post]: right, down, front.
+    Weapons active [received]: Calibration Strip [Q8 -- Zeke],
+    Incremental Commitment Engineered [Q6/Q7 -- Zeke].
+
+  Reiner / Bertholdt / Annie
+    Type: Primary
+    Proof for: Synchronous Contradictory States most psychologically
+    realistic; dual axes genuine, neither concealed strategically
+    Reiner's dissociation = correction capacity intact in one sub-unit,
+    locked in the other.
+    Weapons active [received]: Transmission Capture [Q8], Fertile Lock
+    [Q8 -- Marleyan warrior program].
+
+  Zeke Yeager
+    Type: Primary
+    Proof for: Incremental Commitment [Engineered] operator side;
+    Calibration Strip sibling-scale
+    Planned terminal with steps reverse-designed. Transmitted
+    interpretation of Grisha's axis without founding contestation.
+    Weapons active [deployed]: Incremental Commitment Engineered
+    [Q6/Q7], Calibration Strip [Q8], Philosophical Disarmament [Q3].
+
+  Marley / Eldian system
+    Type: Primary
+    Proof for: Racial Boundary Manipulation as constitutional property;
+    Fertile Lock civilizational scale; Calibration Strip across
+    generations
+    Eldians internalize own oppression as genuine axis. True history
+    suppressed, replacement transmitted as fact.
+    Weapons active: Boundary Manipulation [Q5], Fertile Lock [Q8],
+    Calibration Strip [Q8], Martyrdom Laundering [Q8], Transmission
+    Capture [Q8].
+
+  Survey Corps / Paradis resistance
+    Type: Primary
+    Proof for: Silent Alternative under sustained suppression; Q8
+    transmission dependency [Erwin]; suppression accelerating growth
+    Erwin Smith: Q8 failure -- transmission dependency confirmed at
+    cliff. Hange: distributed transmission more successful.
+    Weapons active [received]: Measurement Surface Control [Q7],
+    Calibration Strip [Q8].
+
+
+==========================================================================
+SECONDARY CASES
+==========================================================================
+
+Secondary cases only where variance from primary is substantively
+informative. Each names the primary case and states the variance.
+
+
+  Ur-Didact [Halo]
+    Secondary to: Palpatine [Necessity Escalation]
+    Variance: Escalation phase only, no Claim. Isolates Escalation
+    as standalone reading -- useful for S1 operational procedure.
+
+  Professor X / Xavier's School [Marvel]
+    Secondary to: Ranni [Silent Alternative]
+    Variance: institutional growth creating exact capture surface the
+    type is supposed to avoid. Demonstrates how Silent Alternative
+    can create its own Q8 weakness through scale.
+    Weapons active [risk]: Transmission Capture [Q8], Selection
+    Pressure Narrowing [Q7].
+
+  Scarlet Witch [Wanda -- Marvel]
+    Secondary to: Macbeth [T2 Subtype B]
+    Variance: iterative stress events select rather than single event.
+    Different correction pathway from catastrophic single stress event.
+    Weapons active [Westview]: Measurement Surface Control [Q7],
+    Reality Distortion [Q7].
+
+  Millennium / The Major [Hellsing]
+    Secondary to: Blood-Soaked Court [Axis-Lock without capture]
+    Variance: cleanest axis declaration in library. War as end not
+    means, explicitly stated. No concealment, no weapons, no capture.
+    Useful because it demonstrates Axis-Lock without any weapon
+    deployment -- the axis is the entire reading.
+    Weapons active: none.
+
+  Father Anderson [Hellsing]
+    Secondary to: Roy Batty / Snape [terminal correction]
+    Variance: terminal correction that deepens lock rather than
+    resolves it. Only case in library of this type -- unique inversion
+    of the terminal correction pattern.
+    Weapons active [received]: Salvation Capture variant [Q1],
+    Sinfulness Framing [Q3].
+
+  Nanachi [Made in Abyss]
+    Secondary to: Roy Batty / Snape [terminal correction]
+    Variance: correction capacity surviving total external substrate
+    destruction [Mitty]. Roy Batty/Snape: internal compromise survives.
+    Nanachi: external loss survives. Different mechanism.
+
+  Early labor movement + Quakers [historical]
+    Secondary to: Ranni [Silent Alternative]
+    Variance: historical real-world confirmation that suppression
+    confirms asymmetry publicly, accelerating differential growth.
+    Partial Fertile Lock correction case -- external pressure drove
+    reconstruction of correctable axis.
+
+  Geto post-split [JJK]
+    Secondary to: Word Bearers [Change-axis Lock]
+    Variance: individual scale with transition event clearly
+    identifiable. Word Bearers: institutional Enantiodromia.
+    Geto: same mechanism, individual scale, one visible stress event.
+
+  Buddha [WATF character]
+    Secondary to: Jaehwan [WATF -- awaiting more source material]
+    Variance: Ouroboros association suggests closed-loop topology
+    awareness. Terminal stage Awakening -- generative or consumptive
+    unconfirmed. T2 Pre-resolution pending text.
+
+
+--------------------------------------------------------------------------
+HELLS PARADISE [Jigokuraku]
+--------------------------
+
+  Gabimaru
+    Type: Primary
+    Proof for: T2 Subtype B resolving into positive directionality;
+    stated axis [indifference] and actual axis [wife] both genuine
+    pre-stress candidates
+    Stress events select progressively. Q3 load-bearing once genuine
+    axis surfaces. Scarcity behavior strongly positive.
+    Three-axis: right, up, front [post-resolution].
+    Weapons active [received]: Isolation Construction [Q1],
+    Incremental Commitment Engineered [Q6/Q7 -- Iwagakure].
+
+  Sagiri
+    Type: Primary
+    Proof for: Positive directionality from institutional capture
+    starting position; correction initiation internal [questions
+    bushido before external pressure]; Q8 transmission to Gabimaru
+    Three-axis: right, up, front.
+    Weapons active [received]: Calibration Strip [Q8 -- bushido
+    transmission], Loaded Language [Q4].
+
+  Shion
+    Type: Primary
+    Proof for: Decay-axis Lock primary proof; cleanest Decay-axis
+    case in library
+    Comfort-mediation of self and targets. Entropy as genuine
+    preference not performed. Accepts self-damage; prefers gradual
+    degradation in targets.
+    Weapons active: none [constitutive Decay-axis].
+
+  Tensen / Iwagakure
+    Type: Primary
+    Proof for: Consuming Structural Break as ecosystem; immortality
+    through external substrate extraction; internal correction
+    capacity present and suppressed
+    Closest parallel to Brethren Moons [passive structural] with
+    distinction: genuine internal correction capacity present but
+    suppressed by design.
+    Weapons active: Exit Cost Construction [Q1], Measurement Surface
+    Control [Q7], Dependency Construction [Q1].
+
+
+DEMON SOULS
+-----------
+
+  Allant
+    Type: Primary
+    Proof for: Voluntary Consumption failure via sustained philosophical
+    examination; divine freedom case without redemption arc
+    Genuine High coherence early. Axis inversion through philosophical
+    examination without external stress event -- distinct from Eren
+    [stress-triggered] and Jin [loss-triggered]. Examined and chosen.
+    Most complete voluntary nihilism case in library.
+    Weapons active: none [freely chosen].
+
+  Patches [Demon Souls instance]
+    Type: Secondary to Patches meta-character [see below]
+    Spider-form, identical axis. Visual monstrousness versus behavioral
+    honesty -- strongest single-character illustration that axis and
+    appearance are independent measurements.
+
+  Consuming Structural Break [Colorless Fog / Old One]
+    Type: Primary
+    Proof for: Q7 failure as environmental property; Dependency
+    Construction at civilizational scale
+    Colorless fog = Q7 failure made environmental -- measurement
+    surface for reality itself degrading. World's coherence cycle
+    borrowed from Old One's containment. Clearest precondition for
+    Dependency failure at civilizational scale.
+
+
+PATCHES [META-CHARACTER]
+------------------------
+
+  Type: Primary
+  Proof for: Design-level Q8 transmission across unconnected fictional
+  topologies; simple fully examined honestly held axis as most
+  transmissible configuration
+
+  Patches recurs across unconnected fictional worlds [Demon Souls,
+  Dark Souls 1/3, Elden Ring, Bloodborne] with identical axis:
+  self-interested survivor, full self-examination, zero weapon
+  deployment, zero concealment. Not canonically connected across
+  games -- recurrence exists at authorial/design level not fictional
+  level.
+
+  Framework reading: simple, fully examined, honestly held axis is
+  maximally transmissible. Patches never degrades across topologies
+  because there is nothing to corrupt -- no concealment, no capture,
+  no weapon deployment. Pure axis, pure self-examination.
+
+  Design-level coherence: author maintains stable enough axis for
+  the character that it transmits across creative contexts without
+  degrading. Q8 at authorial scale not fictional scale.
+
+  Archetypal reading: Patches maps to a stable human pattern
+  [self-interested survivor who is honest about it] that recurs
+  because the pattern is real. Character as measurement surface for
+  that archetype across different contexts.
+
+  Both readings converge: simplicity + honesty + self-examination =
+  maximum transmission fidelity across any topology.
+
+  Individual game instances: Demon Souls [spider form], Dark Souls
+  [merchant/trap], Elden Ring [Volcano Manor], Bloodborne [spider].
+  Each instance is a separate joke within its game. Meta-character
+  reading operates across all simultaneously.
+
+
+CLAIR OBSCUR: EXPEDITION 33
+----------------------------
+
+  The Paintress / Nevio
+    Type: Primary
+    Proof for: Measurement Surface Control as literal reality control;
+    Horizon Collapse at civilizational scale
+    Painting mechanic = cleanest Measurement Surface Control case in
+    library -- operator controls reality by controlling its
+    representation. What gets painted exists; what gets erased does
+    not. The weapon IS the measurement surface. Horizon Collapse:
+    annual erasure by age bracket compresses every living person's
+    planning horizon to current survival bracket.
+    Weapons active: Measurement Surface Control [Q7 -- primary,
+    constitutive], Horizon Collapse [Q7], Sacrifice Frame [Q6],
+    Necessity Escalation [Q6].
+
+  Gustave
+    Type: Primary
+    Proof for: Positive directionality under iterative loss; axis
+    holds under maximum scarcity [S2 = 1]
+    Correction initiation internal throughout.
+    Three-axis: right, up, front.
+    Weapons active: none.
+
+  Expedition 33 group
+    Type: Primary
+    Proof for: Silent Alternative under existential consumption
+    topology; suppression accelerating successive attempts
+    Each failed expedition confirms asymmetry publicly. Differential
+    growth through output not suppression of alternatives.
+    Weapons active [received]: Horizon Collapse [Q7], Exit Cost
+    Construction [Q1].
+
+
+DEUS EX
+-------
+
+  Adam Jensen
+    Type: Primary
+    Proof for: Contained failure with positive directionality; axis
+    holds under complete physical reconstruction [scarcity behavior
+    strongly positive]
+    Q5 uneven [augmented population boundary]. Q3 intact throughout.
+    Three-axis: right, up, front.
+    Weapons active [received]: Boundary Manipulation [Q5],
+    Contestation Cost Asymmetry [Q7].
+
+  Illuminati / Majestic 12
+    Type: Primary
+    Proof for: Distributed Capture Network with Information Asymmetry
+    Exploitation as constitutional property; closest real-world
+    parallel to Mont Pelerin at conspiracy scale
+    Information asymmetry foundational not deployed. Correction and
+    extraction mechanism share identical infrastructure.
+    Weapons active: Information Asymmetry Exploitation [Q7],
+    Measurement Surface Control [Q7], Calibration Strip [Q8],
+    Legitimacy Transfer [Q8], Need-to-Know Compartmentalization [Q7].
+
+  Hugh Darrow
+    Type: Primary
+    Proof for: Genuine correction initiation producing wrong terminal
+    state; intent correction, output consumption
+    Built the system, attempted correction against it via Panchaea
+    plan. Coherent Exit attempted, Consuming Break produced. Most
+    complete case of genuine Q3 firing producing consumption output
+    due to method failure not axis failure.
+    Weapons active: none [correction attempt, not weapon deployment].
+
+  Bob Page
+    Type: Primary
+    Proof for: Excess-axis Lock + Divine Mandate Claim + Total
+    Coherence attempt [parallel to Father/FMA at smaller scale]
+    Absorption of Helios = Total Coherence attempt. Reading identical
+    to Father [FMA] -- different source, confirms pattern.
+    Weapons active: Divine Mandate Claim [Q4], Measurement Surface
+    Control [Q7], Proxy Capture [Q4/Q8 -- MJ12 using legitimate
+    institutions].
+
+  Helios ending
+    Type: Primary
+    Proof for: Topology-level correction rather than unit-level;
+    Coherent Exit at meta-boundary scale
+    Distributed governance replacing centralized capture. Operates
+    at meta-boundary level -- only ending that addresses topology
+    not unit. Distinct from other endings by scale of intervention.
+
+  Deus Ex political topology
+    Type: Primary
+    Proof for: Most complete single-source political topology library
+    in fiction -- maps every major topology the framework identifies
+    Illuminati [Distributed Capture Network], MJ12 [Axis-Lock
+    consumption], NSF [Silent Alternative], Helios [anti-capture
+    distributed], UNATCO [captured legitimate institution].
+
+
+OUROBOROS [symbol and topology]
+--------------------------------
+
+  Type: Primary [topology note]
+  Proof for: Closed self-sustaining consumption loop as distinct
+  topology; boundary between input and output collapsed
+
+  Self-consuming cycle that sustains itself through its own
+  consumption. Appears across cultures independently [Egyptian,
+  Greek, Norse, alchemical] -- archetypal pattern not single source.
+
+  Framework reading: distinct from other closed loops in library.
+  Idea of Evil [Berserk] -- external population as substrate.
+  Gravemind -- external systems as substrate.
+  Ouroboros -- consumes itself. No external substrate required.
+
+  Key property: self-sustaining consumption. Loop doesn't require
+  external input to continue -- feeds on own outputs. Stable in a
+  way other consuming systems are not, but finite because it
+  processes itself down over time.
+
+  Framework gap: Q1 [cycle] runs; Q2 [surplus] is undefined because
+  boundary between input and output collapses. Standard measurement
+  assumes systems consume external substrate or generate for external
+  populations. Ouroboros does neither cleanly.
+
+  Named as distinct topology type: Closed Self-Sustaining Loop.
+  Neither generative nor consuming relative to external populations.
+  Inherently finite -- processes itself down regardless of apparent
+  stability.
+
+  Fictional proof cases:
+    Moebius [XC3] -- soldier deaths powering soldier production.
+    Iwagakure [Hell's Paradise] -- partial, with external substrate.
+    Old One cycle [Demon Souls] -- cosmological scale.
+  Real-world analog: debt-based monetary systems with interest
+  compounding faster than underlying surplus generation [pending
+  full protocol -- WIP item 13].
+
+
+XENOBLADE CHRONICLES
+--------------------
+
+  Shulk [XC1]
+    Type: Primary
+    Proof for: T2 Pre-resolution as character mechanic; positive
+    directionality; vision ability as structured T2 reading
+    Unique case -- T2 is built into the character's ability set not
+    just the framework reading. Sees pre-resolution states before
+    stress event, acts on branching predictions. S3 = 1 throughout.
+    Three-axis: right, up, front.
+    Weapons active: none.
+
+  Zanza [XC1]
+    Type: Primary
+    Proof for: Divine Mandate Claim at maximum; cyclical Consuming
+    Structural Break by design
+    Literally a god claiming axis origin outside human measurement.
+    Consumption cyclical not terminal -- designed to reset and repeat.
+    Distinct from Father [FMA -- terminal] and Gravemind [active
+    growth]. Cycle IS the consumption mechanism.
+    Weapons active: Divine Mandate Claim [Q4], Sacrifice Frame [Q6],
+    Calibration Strip [Q8 -- Bionis history].
+
+  Jin [XC2]
+    Type: Primary
+    Proof for: Enantiodromia via irreversible loss; divine freedom case
+    Genuine High coherence early. Axis inversion through Lora's death
+    -- externally triggered by loss not relationship [contrast Meruem].
+    Examined and chosen post-inversion. Distinguished from Meruem by
+    inversion mechanism: loss vs genuine care received.
+    Weapons active: none.
+
+  Amalthus [XC2]
+    Type: Primary
+    Proof for: Consumption into Axis-Lock via Q7 failure [measurement
+    surface replaced by traumatic event]
+    Genuine correction capacity early. Q7 failure: witness to human
+    evil replaces measurement surface -- reads humanity as irredeemably
+    consuming, acts accordingly. Distinct from most Axis-Lock cases
+    because the lock is produced by a genuine measurement event, not
+    capture or concealment.
+    Weapons active: Divine Mandate Claim [Q4], Sacrifice Frame [Q6],
+    Measurement Surface Control [Q7].
+
+  Moebius [XC3]
+    Type: Primary
+    Proof for: Ouroboros topology [cycle feeds on own outputs];
+    Distributed Capture Network as literal life system
+    Soldier deaths power the system that produces soldiers. Closed
+    self-sustaining consumption loop. Closest fictional case to
+    Ouroboros topology [see WIP -- topology entry pending].
+    Weapons active: Exit Cost Construction [Q1], Measurement Surface
+    Control [Q7], Calibration Strip [Q8].
+
+  N / M [XC3]
+    Type: Primary
+    Proof for: Synchronous Contradictory States [grief and function
+    as genuine dual axes, neither concealed]
+    Per sub-unit T1 resolvable. Unified reading T2 permanent.
+    Weapons active: none [structural contradiction].
+
+
+MONSTER [Naoki Urasawa]
+-----------------------
+
+  Johan Liebert
+    Type: Primary
+    Proof for: Philosophical Disarmament as constitutive property at
+    maximum sophistication; correction capacity redirected inward
+    rather than destroyed
+    Stable axis [erasure of meaning including own existence] but not
+    correctable against -- weaponizes correction capacity of targets.
+    Every interaction is a Disarmament event. Distinct from Joker
+    [no stable axis] and Gravemind [disarms correction capacity
+    directly] -- Johan completes targets' self-examination and
+    redirects it toward self-destruction. Only case in library where
+    genuine insight is the primary consumption mechanism.
+    Weapons active [constitutive]: Philosophical Disarmament [Q3],
+    Reality Distortion [Q7], Incremental Commitment Engineered [Q6/Q7].
+
+  Dr. Tenma
+    Type: Primary
+    Proof for: Genuine correction initiation against overwhelming
+    weapon deployment; Q3 intact under complete professional and
+    social destruction; scarcity behavior strongly positive
+    Axis holds under maximum external pressure. S2 = 1, S3 = 1
+    throughout.
+    Three-axis: right, up, front.
+    Weapons active [received]: Philosophical Disarmament [Q3 -- Johan],
+    Contestation Cost Asymmetry [Q7].
+
+
+FULLMETAL ALCHEMIST
+-------------------
+
+  Edward Elric
+    Type: Primary
+    Proof for: Positive directionality from high-cost starting position;
+    Q3 load-bearing throughout; honest axis [Equivalent Exchange states
+    costs explicitly]
+    Every change internally initiated. Correction capacity fires
+    consistently before external pressure. Q8 intact -- correctable
+    axis transmitted to Alphonse.
+    Three-axis: right, up, front.
+    Weapons active: none.
+
+  Roy Mustang
+    Type: Primary
+    Proof for: Silent Alternative under sustained institutional capture;
+    internal correction initiation [Ishval] before external pressure
+    Genuine axis, transmission dependency risk [network-dependent].
+    Directionality positive throughout.
+    Weapons active [received]: Selection Pressure Narrowing [Q7],
+    Contestation Cost Asymmetry [Q7].
+
+  Father / Homunculi topology
+    Type: Primary
+    Proof for: Consuming Structural Break toward Total Coherence
+    [absorbing God]; Homunculi as Q-failure personifications --
+    most systematic quality-failure mapping in library
+    Father: Terminal Negative state goal. Each Homunculus maps to
+    a specific coherence failure mode:
+      Greed     = Q2 failure [surplus production inverted to pure
+                  extraction]
+      Envy      = Q5 failure [boundary between self and others
+                  dissolved]
+      Pride     = Q7 failure [measurement surface = shadow; sees
+                  everything, reveals nothing]
+      Sloth     = Q1 failure [generative cycle collapsed to minimum]
+      Gluttony  = Q1/Q2 failure [cycle running, no surplus -- pure
+                  consumption]
+      Lust      = Q3 failure [correction capacity converted to
+                  targeting mechanism]
+      Wrath     = Q4 failure [genuine axis replaced with Father's
+                  axis below self-examination depth]
+    Weapons active: Measurement Surface Control [Q7], Legitimacy
+    Transfer [Q8 -- State Alchemist program], Calibration Strip [Q8].
+
+  Bradley / Wrath
+    Type: Primary
+    Proof for: Axis Concealment Subtype A at institutional scale;
+    concealment costs visible pre-stress
+    Stress event [Promised Day] reveals, not selects. Concealment
+    maintained across full institutional window.
+    Weapons active: Axis Concealment [Q7+Q4], Normalcy Anchor [Q7].
+
+
+HUNTER X HUNTER
+---------------
+
+  Gon Freecss
+    Type: Primary
+    Proof for: T2 Subtype B stress-event resolution into temporary
+    Axis-Lock; self-limiting lock unique in library
+    Contained failure early, genuine positive directionality. Q3
+    load-bearing from baseline. Chimera Ant arc: stress event [Kite]
+    selects axis toward self-destruction. Post-stress: Axis-Lock
+    explicitly temporary and self-limiting by design -- unique in
+    library. Distinguished from permanent Axis-Lock by intentional
+    structural limit built into the locked state itself.
+    Weapons active [received]: Isolation Construction [Q1],
+    Philosophical Disarmament [Q3 -- Ging's absence as constitutive
+    pressure].
+
+  Killua Zoldyck
+    Type: Primary
+    Proof for: Individual-scale Transmission Capture [Needle/Illumi];
+    most complete individual correction arc from captured starting
+    position
+    Needle = Transmission Capture at individual scale -- imposed axis
+    installed below self-examination depth before self-examination
+    became operational. Removal = genuine correction initiation before
+    external pressure. Every subsequent change internally initiated.
+    Primary individual-scale Transmission Capture proof case.
+    Weapons active [received]: Transmission Capture [Q8 -- Needle],
+    Exit Cost Construction [Q1 -- Zoldyck family].
+
+  Meruem
+    Type: Primary
+    Proof for: Enantiodromia via genuine relationship [contrast with
+    SHODAN constraint removal]; most psychologically complete
+    Enantiodromia in library
+    Violence-axis Lock at entry. Genuine axis inversion through Komugi
+    relationship -- externally triggered by genuine surplus generation
+    not constraint removal. Pre-inversion reads High coherence at short
+    window. Distinct from SHODAN: inversion produced by receiving
+    genuine care, not by removing imposed limits.
+    Three-axis [pre]: far right, down, back.
+    Three-axis [post-inversion]: right, up, front.
+    Weapons active: none.
+
+  Pariston Hill
+    Type: Primary
+    Proof for: Change-axis Lock with self-examination fully present
+    and fully locked; examination as the weapon itself
+    Self-examination running at full power, axis locked below it.
+    Closest human parallel to Kenjaku -- the examination IS the weapon.
+    Philosophical Disarmament as constitutive property not deployed
+    weapon. Most sophisticated Change-axis human case in library.
+    Weapons active [constitutive]: Philosophical Disarmament [Q3],
+    Incremental Commitment Engineered [Q6/Q7].
+
+  Chimera Ant arc [topology]
+    Type: Primary
+    Proof for: Consuming Structural Break arrested mid-process by
+    internal axis shift; unique in library
+    Only case where a Consuming Structural Break is genuinely arrested
+    by internal axis shift [Meruem's Enantiodromia] rather than
+    external intervention or substrate exhaustion. Topology reversal
+    driven by unit-level coherence change propagating upward.
+
+
+DEVIL MAY CRY
+-------------
+
+  Dante
+    Type: Primary
+    Proof for: Violence-adjacent axis serving generative function for
+    boundary population; zero weapon deployment; scarcity behavior
+    positive [S2 = 1]
+    Closer to Skull Knight than Judge Holden -- violence is the
+    mechanism, not the axis. Axis is protection of humanity. Q3
+    intact throughout, self-examination present. Power increases under
+    pressure [scarcity behavior strongly positive].
+    Three-axis: right, up, front.
+    Weapons active: none.
+
+  Vergil
+    Type: Primary
+    Proof for: Freely chosen Axis-Lock with full self-examination;
+    divine freedom case; lock genuine and owned not captured
+    Power as axis, self-examined completely, held consistently without
+    inversion. Distinguished from most Axis-Lock cases because the
+    lock is not capture or concealment -- it is examined and chosen.
+    Never wavers, never inverts. The consistency is the reading.
+    Divine freedom proof case alongside Eren -- distinct because Eren
+    inverts under stress; Vergil holds under all conditions.
+    Three-axis: far right, down, front.
+    Weapons active: none.
+
+  Primary framework finding
+    Dante and Vergil are the same axis split into two approaches --
+    power as means [Dante] versus power as end [Vergil]. Same origin,
+    same capability, opposite Q3 readings. Strongest sibling-contrast
+    pair in library for demonstrating that axis content alone does not
+    determine coherence reading -- self-examination presence and
+    direction is the discriminating factor.
+--------------------------------------------------------------------------
+
+Primary finding: every sustained evil produces same pattern --
+consumption-dominant terminal node fed by capture chains through
+intermediate nodes that believe they are operating normally.
+
+  Idea of Evil [Berserk]   Closed loop; T3 unreachable as topology.
+  Imperial [Warhammer]     Linear extraction toward Golden Throne.
+  Trench Crusade           Opposing terminal nodes; human population
+                           as intermediate layer.
+  Dark Souls flame         Consumption cascade; Undead as residue.
+  Westeros                 Three extraction chains, no generative core.
+                           Ungovernable by topology property.
+  Breaking Bad             Individual-scale. Transfer reversal readable
+                           before visible as character.
+  HYDRA [Marvel]           Distributed Capture Network.
+  Rubicon [AC6]            Coral as simultaneous generative core and
+                           Consuming Break -- unique topology property.
+  Marley/Paradis [AoT]     Racial extraction with Fertile Lock as
+                           civilizational architecture.
+
+
+
+==========================================================================
+SECTION FIVE -- POLITICAL MEASUREMENT
+==========================================================================
+
+The framework tool is neutral. Political measurement is not and cannot
+be. This section states its value foundation explicitly rather than
+claiming false neutrality.
+
+FOUNDING VALUES FOR POLITICAL MEASUREMENT
+
+  Autonomy as primary axis: people can do what they want.
+  Honesty as constraint: outputs must be honest about what is being
+  done and who bears the cost.
+
+  These two values together produce a stricter standard than most
+  political ideologies apply. Autonomy without honesty is concealment.
+  Honesty without autonomy is coercion. Both are required.
+
+  Where autonomy conflicts with extraction: when what someone wants
+  extracts from others who didn't consent, the autonomy claim forecloses
+  measurement of the extraction. Honesty resolves this -- you can do
+  what you want as long as you are honest about what you are doing and
+  who bears the cost. Concealed extraction violates the honesty
+  constraint regardless of whether autonomy is cited as justification.
+
+IDEOLOGY VS POLITICS
+
+  Ideology = application of moral values in structured form. Honest
+  about what it is. Contestable at values level and application level.
+
+  Politics = frequently uses ideological framing while deploying weapons
+  to force boundary outcomes. The dishonesty is the gap between stated
+  values and actual boundary manipulation. Not all politics operates
+  this way -- but the framework measures the gap where it exists.
+
+  Political measurement is necessary precisely because politics is not
+  honest by nature. The tool applies where honesty is absent.
+
+T3 WARNING [applies to all entries in this section]
+
+  Analyst bias probable throughout. All readings contested and
+  provisional. No political reading reaches confirmed without all 11
+  protocol tests completed and adversarial reading produced.
+  Independent review recommended before use as confirmed readings.
+  The founding values stated above are the analyst's own -- they
+  determine what counts as harm. A reader with different values would
+  weight some readings differently. That is expected and honest.
+
+
+--------------------------------------------------------------------------
+HIGH-USE POLITICAL WEAPONS AND COUNTERMEASURES
+--------------------------------------------------------------------------
+
+Most deployed political weapons with measurement countermeasures.
+Countermeasures are not rebuttals -- they are tools for reaching an
+honest output reading despite weapon deployment.
+
+  Martyrdom Laundering [Q8]
+    Past suffering used as permanent foreclosure on present output
+    measurement. Highly effective because the suffering is genuine --
+    the weapon exploits real history.
+    Countermeasure: window isolation. Separate historical legitimacy
+    claims from current output readings explicitly. Both can be true
+    simultaneously -- historical suffering real AND current extraction
+    measurable. Neither forecloses the other. Run separate readings
+    per window; do not allow long-window moral weight to suppress
+    short-window output measurement.
+
+  Security Framing [Q7]
+    Measurement attempts made readable as threats to collective safety.
+    Effective because genuine security concerns exist alongside
+    manufactured ones.
+    Countermeasure: identify who benefits from measurement being
+    suppressed. Genuine security concerns survive output measurement
+    -- they produce observable threats with measurable responses.
+    Fabricated security concerns require suppressing measurement to
+    maintain. The beneficiary check [protocol test 9] is the
+    discriminating tool.
+
+  Necessity Escalation [Q6]
+    Each action justified by prior; original claim never re-examined.
+    Effective because each individual step appears proportional.
+    Countermeasure: trace back to founding claim and measure it
+    independently of all subsequent steps. If founding claim does not
+    survive scrutiny, the chain has no anchor. Run the founding claim
+    through the irreversibility test [protocol test 1] independently.
+
+  Universalism Trap [Q5]
+    Particular group's interest framed as universal. Contestation
+    appears as opposition to universalism itself.
+    Countermeasure: name the specific population that would benefit
+    most if the "universal" policy were implemented. Universal claims
+    with identifiable primary beneficiaries are particular interests
+    in universal framing. Apply boundary selection rule -- who is
+    actually inside the measurement boundary?
+
+  Contamination Framing [Q5]
+    Legitimate measurement associated with condemned positions.
+    Measurement suppressed by associating the measurer with a
+    discredited group or position.
+    Countermeasure: separate the measurement from the measurer
+    completely. Output readings are valid or invalid based on the
+    evidence they rest on, not the identity or position of who
+    produces them. Run counterfactual test [protocol test 3] -- would
+    the same output reading be acceptable if produced by someone the
+    audience approved of?
+
+  Obligation Manufacture via Moral Debt [Q7]
+    Genuine historical relationship or suffering converted into
+    asymmetric obligation that forecloses present measurement.
+    Countermeasure: name the specific obligation claimed, its origin,
+    and who benefits from its application. Genuine obligations are
+    symmetrical -- they apply consistently across comparable cases.
+    Obligations that apply only when they benefit a specific party
+    are Obligation Manufacture not genuine moral weight.
+
+  Boundary Manipulation [Q5]
+    Shifting who counts as inside the measurement boundary to exclude
+    populations currently experiencing harm.
+    Countermeasure: apply harm exclusion constraint [boundary selection
+    rule] before any other measurement. No boundary that excludes
+    populations currently bearing costs of system operation. Boundary
+    manipulation is detectable because it requires actively excluding
+    the harmed population -- the exclusion mechanism is visible even
+    when the harm is not.
+
+
+--------------------------------------------------------------------------
+ANTI-POLITICS TEST
+--------------------------------------------------------------------------
+
+Structural test for external actor boundary manipulation.
+Run before weapon scoring in any political case.
+
+Force a large boundary first -- include all populations bearing cost
+before measurement begins. Identify external actors operating inside
+that boundary without accountability to it.
+
+Test: are external actors shaping boundary outcomes for a population
+they bear no cost from and have no stake in?
+If yes -- political weapon deployment by structural definition,
+regardless of stated ideology.
+
+External actor signature:
+  - Shapes policy outputs for a population outside their accountability
+    boundary.
+  - Bears no cost of those outputs.
+  - Has no stake in the affected population's welfare.
+  - Operates inside another population's institutional boundary.
+
+PRIMARY proof [historical]: colonial boundary-drawing -- external
+powers drawing territorial boundaries for populations bearing all
+costs, with no accountability to those populations. Clearest
+structural case because the power asymmetry and cost distribution
+are both unambiguous.
+
+Contemporary instances require full political protocol [all 11 tests]
+before reading is confirmed. Historical proof calibrates the
+structural principle; contemporary applications carry higher T3 risk.
+
+
+--------------------------------------------------------------------------
+POLITICAL MEASUREMENT PROTOCOL
+--------------------------------------------------------------------------
+
+All 11 tests required for confirmed reading. Partial protocol =
+lower confidence rating. No political reading reaches confirmed
+without adversarial reading produced and prediction stated.
+
+  1.  IRREVERSIBILITY TEST
+      Identify who bears irreversible harm [death, displacement,
+      generational damage] before readings begin. Irreversible harm
+      carries higher evidentiary weight than reversible extraction.
+      State finding explicitly before any other measurement proceeds.
+
+  2.  CONSISTENCY TEST
+      Apply identical standard regardless of which population is
+      favored. If a weapon scores against one state, identical
+      deployment by an allied or sympathized state scores equally.
+      No exemptions by sympathy or prior relationship.
+
+  3.  COUNTERFACTUAL TEST
+      Would reading change if populations were swapped? If yes --
+      reading is tracking group identity not outputs. T3 active.
+      Flag and revise before proceeding.
+
+  4.  CORRECTION CAPACITY TEST
+      Does system tolerate internal contestation of its own outputs?
+      Distinguish Selection Pressure [capacity present but unused]
+      from Axis-Lock [capacity eliminated]. Different failure states,
+      different correction pathways.
+
+  5.  WINDOW SPLIT TEST
+      Run short window [current policy] and long window [institutional
+      patterns] explicitly. Both required. Gap between them is
+      diagnostic. State which window produces which reading and why.
+
+  6.  ANALYST PRIOR TEST
+      State expected conclusion before reading begins. If reading
+      matches prior -- run tests 2 and 3 again with extra scrutiny.
+      Framework should occasionally surprise the analyst. If it never
+      does, T3 is operating and readings are confirmation not
+      measurement.
+
+  7.  ADVERSARIAL READING
+      Produce the strongest honest case for the opposite conclusion.
+      Cannot steelman adequately = reading is uncontested not
+      confirmed. Uncontested is not the same as correct.
+
+  8.  THIRD POPULATION TEST
+      Identify a population with no stake in the system being measured.
+      Run reading from their perspective. If reading changes
+      significantly -- prior readings are more boundary-dependent than
+      accounted for.
+
+  9.  WEAPON BENEFICIARY CHECK
+      For every weapon identified, name the specific concrete
+      beneficiary of its deployment. Vague beneficiary = weapon exits
+      pool. Cannot name who benefits = probable pattern-matching not
+      evidence.
+
+  10. PREDICTION TEST
+      State a falsifiable prediction based on the reading. If nothing
+      the system could do would change the reading -- unfalsifiable,
+      not a measurement. Absence of this test is itself a diagnostic
+      signal. Most political analysis never attempts this test.
+
+  11. ANTI-POLITICS TEST
+      Run the external actor boundary check [see above]. Name any
+      external actors shaping boundary outcomes for populations they
+      bear no cost from. If present -- note as structural weapon
+      deployment regardless of other readings.
+
+OUTPUT FORMAT
+
+  Protocol completed: [list which of 11 ran]
+  Confidence: provisional / partial / confirmed
+  [No reading reaches confirmed without all 11 and adversarial reading]
+
+  Irreversibility finding:
+  Analyst prior declared:
+  Adversarial reading:
+  Third population reading:
+  Anti-politics check: [external actors identified / none]
+  Boundary A [stated/included population]: reading
+  Boundary B [cost-bearing/excluded population]: reading
+  Discordance:
+  Window split: short / long / gap
+  Weapons active [named beneficiary, confidence rated]
+  Prediction [falsifiable]:
+  Confidence rating: provisional / partial / confirmed
+
+
+--------------------------------------------------------------------------
+POLITICAL CASES
+--------------------------------------------------------------------------
+
+All entries below are provisional. T3 risk high throughout. Built
+inside a single extended conversation -- independent review required
+before use as confirmed readings.
+
+
+UNITED STATES
+-------------
+
+Protocol completed: 1-11. Confidence: partial.
+
+Irreversibility finding: domestic marginalized populations bear
+irreversible harm [mass incarceration generational effects, racialized
+wealth gap compounding]. Global: civilian populations in Iraq,
+Afghanistan, Yemen bear irreversible harm from military intervention.
+Weight shifts toward Boundary B.
+
+Analyst prior declared: expected Mixed-collapsing [A], captured
+consumption [B]. Matched prior. Tests 2 and 3 with extra scrutiny.
+
+Adversarial reading: US correction capacity genuinely functional --
+press freedom, judicial independence, electoral competition, civil
+society density are real. Multiple genuine correction events initiated
+before full external pressure [civil rights movement, Watergate].
+Institutions absorbed significant stress without collapse. Reading
+could be Variable-stable not Mixed-collapsing. Weapon deployment may
+be Selection Pressure not aggressive capture. Assessment: partially
+sustained. Not closed.
+
+Third population [non-aligned states]: Mixed-stable surface, negative
+directionality, extraction pattern growing.
+
+Anti-politics check: financial sector and military-industrial complex
+operating inside legislative boundary shaping policy for populations
+[domestic poor, global South] bearing costs they do not bear.
+Documented. Scores as external actor boundary manipulation.
+
+Boundary A [US citizens as stated]: Q1 running. Q2 positive aggregate,
+upward transfer accelerating. Q3 institutionally present, contestation
+cost asymmetric by group. Q4 mixed -- democratic stated, oligarchic
+operational, gap widening. Reading: Mixed-collapsing.
+Three-axis: right of center, downward trending, mid.
+
+Boundary B [populations bearing extraction cost]: Q2 extraction
+dominant. Q5 manipulation active. Q6 overcorrection as suppression.
+Reading: Captured state, consumption accelerating.
+
+Discordance: large and growing. Gap is the primary finding.
+
+Window split: Short [2020-present] Mixed-stable surface, some
+correction events. Long [1980-present] consistent upward transfer,
+declining Q3 responsiveness to non-elite populations. Long window
+worsens reading.
+
+Weapons active [named beneficiary]:
+  Stakeholder Diffusion [Q2/Q5] -- corporate shareholders. High.
+  Metric Capture [Q2] -- financial sector. High.
+  Normalcy Anchor [Q7] -- incumbent institutional class. High.
+  Calibration Strip [Q8] -- neoliberal policy class. High.
+  Contestation Cost Asymmetry [Q7] -- incumbent power holders. High.
+  Axis Fragmentation [Q7] -- contested [may be structural]. Half.
+
+Prediction: policy responsiveness to non-elite preferences continues
+declining measurably. If wrong -- major correction event initiated
+before external pressure reducing upward transfer within five years.
+
+
+CHINA
+-----
+
+Protocol completed: 1-11. Confidence: partial.
+
+Irreversibility finding: Uyghur population bears irreversible harm
+[detention, documented forced sterilization, cultural destruction].
+Tibetan: irreversible cultural and demographic harm. Hong Kong:
+irreversible institutional harm. Weight shifts strongly toward B.
+
+Analyst prior declared: expected Axis-Lock with Fertile Lock by
+design. Matched completely. Maximum scrutiny on tests 2 and 3.
+
+Adversarial reading: CCP produced largest single reduction of material
+poverty in human history. Q2 surplus for Boundary A genuine and large.
+Some internal correction exists. Assessment: weaker than US case.
+Q8 failure is stated not accidental. Boundary B harm irreversible and
+documented.
+
+Third population [Global South]: genuine development partner alongside
+documented Boundary B harm. Axis-Lock with extraction at specific
+boundaries confirmed.
+
+Anti-politics check: CCP operating as external actor inside Uyghur,
+Tibetan, and Hong Kong populations' institutional boundaries, shaping
+boundary outcomes for those populations while bearing no accountability
+to them.
+
+Boundary A [Han Chinese urban, 2000-2020]: Q1 running. Q2 genuinely
+positive. Q3 absent at meta-boundary. Q4 Axis-Lock. Q8 Fertile Lock
+by design. Reading: Axis-Lock with Fertile Lock propagating.
+
+Boundary B [Uyghur, Tibetan, Hong Kong, rural migrant workers]: Q2
+extraction dominant. Q5 manipulation explicit and legal. Q7 near-total
+MSC. Q3 absent. Reading: Captured state, consumption dominant.
+
+Discordance: very large. Boundary selection is the entire question.
+
+Window split: Short [Xi era] Q3 suppression accelerating. Long [1978-
+present] genuine Q2 surplus for A dominant. Long flatters A.
+
+Weapons active:
+  Measurement Surface Control [Q7] -- CCP leadership. High.
+  Transmission Capture [Q8] -- CCP as institution. High.
+  Calibration Strip [Q8] -- CCP leadership class. High.
+  Boundary Manipulation [Q5] -- Han majority political class. High.
+  Signal Saturation [Q7] -- CCP apparatus. High.
+  Fertile Lock [Q8] -- CCP self-perpetuating. High.
+  Only case where Q8 failure is stated institutional goal.
+
+Prediction: no genuine internal correction event before external
+pressure within next decade. If wrong -- major policy reversal on
+Boundary B populations initiated internally within five years.
+
+
+RUSSIA
+------
+
+Protocol completed: 1-11. Confidence: partial.
+
+Irreversibility finding: Ukrainian civilian population bears
+irreversible harm [death, displacement, infrastructure destruction].
+Peripheral conscripts: disproportionate casualties documented.
+Opposition figures: terminal harm. Weight shifts strongly toward B.
+
+Analyst prior declared: expected Consumption accelerating into
+Axis-Lock. Matched. Tests 2 and 3 with extra scrutiny.
+
+Adversarial reading: Putin's consolidation produced genuine stability
+after 1990s collapse -- real. Q2 surplus for A was genuine across
+hydrocarbon period. NATO expansion created genuine security concerns
+consistently underweighted in Western analysis. Internal correction
+not fully absent. Assessment: stronger adversarial case than China.
+But correction capacity test fails -- opposition figures meet terminal
+response. Irreversibility very strong.
+
+Third population [former Soviet states, not Ukraine, not NATO]:
+genuine security axis with real domestic support alongside clear
+extraction pattern.
+
+Anti-politics check: Russian state operating as external actor inside
+Ukrainian population's territorial boundary, shaping boundary outcomes
+for a population bearing all costs while bearing none itself.
+
+Boundary A [ethnic Russian urban, 2000-2021]: Q1 running. Q2 positive
+masked by hydrocarbons. Q3 absent at meta-boundary. Q4 Enantiodromia
+completing. Reading: Mixed-stable surface, Axis-Lock underneath.
+
+Boundary B [opposition, ethnic minorities, Ukrainians, peripheral
+conscripts]: Q2 extraction dominant. Q3 meeting terminal response.
+Q5 manipulation active. Q6 Necessity Escalation since 2014. Reading:
+Consumption accelerating into Axis-Lock.
+
+Discordance: A stability maintained by B extraction. War economy
+collapsing the gap.
+
+Window split: Short [2022-present] war economy consuming A substrate.
+Long [2000-present] Enantiodromia in full. Short now worse than long.
+
+Weapons active:
+  Amnesia Manufacture [Q7] -- Putin admin and FSB. High.
+  Normalcy Anchor [Q7] -- incumbent class. High.
+  Security Framing [Q7] -- siloviki and military complex. High.
+  Necessity Escalation [Q6] -- Putin inner circle. High.
+  Enantiodromia [Q4] -- nationalist-Orthodox class. High.
+  Calibration Strip [Q8] -- current class. High.
+  Martyrdom Laundering [Q8] -- Putin admin [WWII as permission]. High.
+
+Prediction: real wage decline becomes politically unmanageable within
+three years without major policy reversal. If wrong -- internally
+initiated correction before external pressure forces it.
+
+
+ISRAEL / PALESTINE
+------------------
+
+Protocol completed: 1-11. Confidence: provisional [highest T3 risk
+in library. Full bias elimination cannot be certified. Framework
+cannot resolve historical rights disputes -- measures outputs only].
+
+Irreversibility finding: Palestinian population Gaza bears irreversible
+harm [50k+ deaths documented May 2026, near-total displacement,
+infrastructure and institutional destruction]. West Bank: irreversible
+harm via settlement displacement [ongoing since 1967]. Israeli civilian
+population: irreversible harm via October 7 [1200 deaths, hostages] --
+real and documented. Both populations bear irreversible harm. Gaza
+Palestinian population bears irreversible harm at substantially higher
+volume and rate in current window. Weight shifts toward Palestinian
+Boundary B in current window.
+
+Analyst prior declared: expected Martyrdom Laundering and Necessity
+Escalation as high-confidence weapons. Matched. Maximum scrutiny tests
+2 and 3. T3 flag maintained. Bias elimination cannot be certified.
+
+Adversarial reading: Israel faces genuine existential security threat.
+October 7 demonstrated real capability and intent. Hamas governs Gaza
+as extraction topology running against its own population -- documented.
+Israel's correction capacity is real -- Supreme Court, press, protest
+movements function. Internal dissent visible and tolerated at some
+level. Some Boundary B harm is Hamas-generated not Israeli-generated.
+Framework cannot cleanly attribute at this granularity. Assessment:
+adversarial case real and partially sustained. Hamas topology is a
+genuine confounding factor. Does not change irreversibility finding
+on volume.
+
+Third population [Arab states in normalized relation, no direct stake]:
+Israeli state actions read as disproportionate. Palestinian cause has
+regional legitimacy independent of Hamas. Hamas extraction topology
+visible and real.
+
+Anti-politics check: Israeli state operating inside Palestinian
+population's territorial boundary, shaping boundary outcomes for a
+population bearing all costs while bearing none itself. AIPAC and
+allied governments operating inside US legislative boundary shaping
+policy for Palestinian population bearing costs they do not bear.
+Both score as external actor boundary manipulation.
+
+Boundary A [Jewish Israeli citizens]: Q1 running. Q2 positive within
+boundary. Q3 present and real -- internal contestation visible. Q4
+mixed -- democratic stated, territorial expansion operational. Reading:
+Mixed-stable to Mixed-collapsing by window.
+
+Boundary B [Palestinian population -- Gaza, West Bank, Israeli Arab
+citizens]: Q2 extraction dominant. Q5 manipulation explicit and legally
+structured. Q6 Necessity Escalation running. Q3 absent. Reading:
+Captured state, consumption dominant in current window.
+
+Discordance: very large. Hamas topology confounds weapon attribution
+at Boundary B. Noted, not resolved.
+
+Window split: Short [October 2023-present] Boundary B consumption
+maximum. Long [1967-present] systematic extraction consistent
+directionality. Long window confirms structural extraction pattern
+predating current conflict.
+
+Weapons active [post adversarial scrutiny]:
+  Martyrdom Laundering [Q8] -- Israeli state and lobby. High.
+  Contamination Framing [Q5] -- Israeli state and advocacy. High.
+  Necessity Escalation [Q6] -- Israeli security/military. High.
+  Boundary Manipulation [Q5] -- settlement movement. High.
+  Universalism Trap [Q5] -- state framing apparatus. High.
+  Security Framing [Q7] -- military-security complex. Contested. Half.
+  Obligation Manufacture [Q7] -- state and ally governments. Contested
+  [genuine historical weight present]. Half.
+
+Prediction: settlement expansion will continue or accelerate regardless
+of stated peace commitments. Observable within two years. If wrong --
+internally initiated correction on settlement expansion before external
+pressure. No such event in 57-year window to date.
+
+Note: framework cannot resolve whether October 7 changes the moral
+calculus of prior extraction. Long window output reading does not
+change based on the trigger event.
+
+
+AIPAC / US ISRAEL LOBBY
+------------------------
+
+Protocol completed: 1-11. Confidence: partial.
+
+Irreversibility finding: Palestinian population bears irreversible harm
+as downstream output of influenced US policy. US general population
+bears primarily reversible harm. US Muslim and Arab-American communities
+bear partially irreversible harm [chilling political participation].
+Weight shifts toward Boundary B.
+
+Analyst prior declared: expected functional at A, captured legislative
+topology at B. Matched. Tests 2 and 3 applied.
+
+Adversarial reading: AIPAC operates within legal democratic lobbying
+framework identical to other interest lobbies. Pro-Israel sentiment has
+genuine popular support independent of lobby activity. Politicians may
+support Israel because constituents do, not because lobby compels.
+Assessment: partially sustained. Popular support real. But contestation
+cost asymmetry exceeds comparable lobby contexts and is documented.
+
+Third population [Latin American states, no exposure]: US foreign
+policy appears captured on this issue. Veto pattern at UN anomalous.
+
+Anti-politics check: AIPAC operating inside US legislative boundary
+shaping policy for Palestinian population -- no stake, no cost, no
+accountability to affected population. Scores as external actor
+boundary manipulation. Primary contemporary instance for anti-politics
+test.
+
+Boundary A [pro-Israel advocacy, democratic participation]: Q1 running.
+Q2 positive for member constituency. Q3 present. Reading: functional.
+
+Boundary B [US general population, Palestinian population bearing
+policy outputs]: Q5 Boundary Manipulation. Q7 Contestation Cost
+Asymmetry [career consequences documented, asymmetric vs comparable
+contexts]. Q3 Correction Theatre [debate structures without genuine
+correction reaching policy -- veto record confirms]. Reading: captured
+legislative topology.
+
+Discordance: A functional, B captured. Gap is the finding.
+
+Window split: Short [2020-present] Contestation Cost Asymmetry
+documented. Long [1970-present] influence consistent across
+administrations. Veto pattern anomalous vs all other US foreign policy.
+
+Weapons active:
+  Contestation Cost Asymmetry [Q7] -- AIPAC and allied organizations.
+  High.
+  Obligation Manufacture via Moral Debt [Q7] -- Israeli state and
+  lobby. Contested -- genuine historical weight. Half.
+  Contamination Framing [Q5] -- lobby and Israeli state. High.
+  Legitimacy Transfer [Q8] -- lobby. High.
+  Measurement Surface Control [Q7] -- lobby and allied media.
+  Contested. Half.
+
+Prediction: US veto at UN Security Council will continue regardless
+of sitting president's stated preferences. Congressional criticism of
+Israeli state action will continue to carry career cost asymmetric to
+other foreign policy topics. Observable within current legislative
+session. If wrong -- elected officials respond to constituent pressure
+on Israel/Palestine proportionally to other foreign policy topics.
+No documented case of this in current window.
+
+
+--------------------------------------------------------------------------
+UNITED STATES
+--------------------------------------------------------------------------
+
+Protocol completed: 1-10.  Confidence: partial.
+
+Irreversibility finding: domestic marginalized populations bear
+irreversible harm [mass incarceration generational effects, racialized
+wealth gap compounding]. Global: civilian populations in Iraq,
+Afghanistan, Yemen bear irreversible harm from military intervention
+outputs. Evidentiary weight shifts toward Boundary B.
+
+Analyst prior declared: expected Mixed-collapsing [A], captured
+consumption [B]. Reading matched prior. Tests 2 and 3 applied with
+extra scrutiny.
+
+Adversarial reading: US correction capacity is genuinely functional --
+press freedom, judicial independence, electoral competition, civil
+society density are real not performed. Multiple genuine correction
+events initiated before full external pressure [civil rights movement,
+Watergate]. Democratic institutions have absorbed significant stress
+without collapse. Reading could be Variable-stable not Mixed-collapsing.
+Weapon deployment may be Selection Pressure not aggressive capture.
+Assessment: adversarial case partially sustained. Not closed.
+
+Third population reading [non-aligned states]: functionally coherent
+with significant and growing extraction pattern. Closer to Mixed-stable
+than collapsed, directionality negative.
+
+Boundary A [US citizens as stated]: Q1 running. Q2 positive at
+aggregate, upward transfer accelerating. Q3 institutionally present,
+contestation cost asymmetric by group. Q4 mixed -- democratic stated
+axis, oligarchic operational axis, gap widening. Reading: Mixed-
+collapsing. Three-axis: right of center, downward trending, mid.
+
+Boundary B [populations bearing extraction cost -- domestic marginalized
++ global South under US policy]: Q2 extraction dominant. Q5 manipulation
+active. Q6 overcorrection as suppression. Reading: Captured state,
+consumption accelerating.
+
+Discordance: large and growing. Same apparatus, opposite readings. Gap
+is the primary finding.
+
+Window split: Short [2020-present] -- some correction events visible,
+Mixed-stable surface. Long [1980-present] -- consistent upward transfer,
+declining Q3 responsiveness to non-elite populations. Long window
+worsens the reading.
+
+Weapons active:
+  Stakeholder Diffusion [Q2/Q5] -- corporate shareholders. High conf.
+  Metric Capture [Q2] -- financial sector. High confidence.
+  Normalcy Anchor [Q7] -- incumbent institutional class. High.
+  Calibration Strip [Q8] -- neoliberal policy class. High confidence.
+  Contestation Cost Asymmetry [Q7] -- incumbent power holders. High.
+  Axis Fragmentation [Q7] -- contested [may be structural]. Half value.
+
+Prediction: policy responsiveness to non-elite preferences will
+continue declining measurably. If wrong -- major correction event
+initiated before external pressure, reducing upward transfer direction,
+within five years.
+
+
+--------------------------------------------------------------------------
+CHINA
+--------------------------------------------------------------------------
+
+Protocol completed: 1-10.  Confidence: partial [adversarial reading
+thinner than other entries].
+
+Irreversibility finding: Uyghur population bears irreversible harm
+[detention, documented forced sterilization, cultural destruction,
+generational transmission disruption]. Tibetan: irreversible cultural
+and demographic harm. Hong Kong: irreversible institutional harm.
+Weight shifts strongly toward Boundary B.
+
+Analyst prior declared: expected Axis-Lock with Fertile Lock by design.
+Matched prior completely. Tests 2 and 3 at maximum scrutiny.
+
+Adversarial reading: CCP produced the largest single reduction of
+material poverty in human history. Q2 surplus for Boundary A is genuine
+and large. Some internal correction exists [anti-corruption campaigns,
+policy adjustment cycles]. Adversarial case: Boundary A High coherence
+is real; Boundary B may be security failure not pure extraction;
+framework may carry Western measurement assumptions. Assessment: weaker
+than US case. Q8 failure is stated not accidental. Boundary B harm is
+irreversible and documented.
+
+Third population [Global South]: genuine development partner visible
+alongside documented Boundary B harm. Axis-Lock with extraction at
+specific boundaries confirmed.
+
+Boundary A [Han Chinese urban, 2000-2020]: Q1 running. Q2 genuinely
+positive. Q3 absent at meta-boundary. Q4 Axis-Lock below self-
+examination depth. Q8 Fertile Lock by design. Reading: Axis-Lock with
+Fertile Lock propagating.
+
+Boundary B [Uyghur, Tibetan, Hong Kong, rural migrant workers]: Q2
+extraction dominant. Q5 manipulation explicit and legal. Q7 near-total
+Measurement Surface Control. Q3 absent. Reading: Captured state,
+consumption dominant.
+
+Discordance: very large. Boundary selection is the entire question.
+
+Window split: Short [Xi era 2012-present] -- Q3 suppression
+accelerating, Boundary B harm increasing. Long [1978-present] --
+genuine Q2 surplus for Boundary A dominant. Long window flatters A.
+
+Weapons active:
+  Measurement Surface Control [Q7] -- CCP leadership. High.
+  Transmission Capture [Q8] -- CCP as institution. High.
+  Calibration Strip [Q8] -- CCP leadership class. High.
+  Boundary Manipulation [Q5] -- Han majority political class. High.
+  Signal Saturation [Q7, Great Firewall] -- CCP apparatus. High.
+  Fertile Lock [Q8, Party formation] -- CCP self-perpetuating. High.
+  Note: only case where Q8 failure is stated institutional goal.
+
+Prediction: no genuine internal correction event initiating before
+external pressure within next decade. Succession crisis within two
+generations. If wrong -- major policy reversal on Boundary B
+populations initiated internally within five years.
+
+
+--------------------------------------------------------------------------
+RUSSIA
+--------------------------------------------------------------------------
+
+Protocol completed: 1-10.  Confidence: partial [prediction
+falsifiability limited by war economy].
+
+Irreversibility finding: Ukrainian civilian population bears
+irreversible harm [death, displacement, infrastructure destruction].
+Russian conscripts from peripheral and ethnic minority regions:
+disproportionate casualty rates documented. Opposition figures:
+terminal harm [Navalny, Nemtsov, Politkovskaya]. Weight shifts strongly
+toward Boundary B.
+
+Analyst prior declared: expected Consumption accelerating into Axis-
+Lock. Matched prior. Tests 2 and 3 with extra scrutiny.
+
+Adversarial reading: Putin's consolidation produced genuine stability
+after 1990s substrate collapse -- real not performed. Q2 surplus for
+Boundary A was genuine across hydrocarbon period. NATO expansion
+created genuine security concerns consistently underweighted in Western
+analysis. Russian internal correction is not fully absent -- oligarch
+networks and regional governors exercise real correction even if not
+democratic. Assessment: stronger adversarial case than China. But
+correction capacity test fails clearly -- opposition figures meet
+terminal response. Irreversibility finding very strong.
+
+Third population [former Soviet states, not Ukraine, not NATO]:
+genuine security axis with real domestic support alongside clear
+extraction pattern. Enantiodromia visible.
+
+Boundary A [ethnic Russian urban, 2000-2021]: Q1 running. Q2 positive
+masked by hydrocarbon surplus. Q3 absent at meta-boundary. Q4
+Enantiodromia completing. Reading: Mixed-stable surface, Axis-Lock
+underneath.
+
+Boundary B [opposition, ethnic minorities, Ukrainian population,
+peripheral conscripts]: Q2 extraction dominant. Q3 correction meeting
+terminal response. Q5 manipulation active. Q6 Necessity Escalation
+since 2014. Reading: Consumption accelerating into Axis-Lock.
+
+Discordance: Boundary A stability maintained by Boundary B extraction.
+War economy now collapsing the gap.
+
+Window split: Short [2022-present] -- war economy consuming Boundary A
+substrate. Worse than long window. Long [2000-present] -- Enantiodromia
+visible in full. Trajectory accelerating.
+
+Weapons active:
+  Amnesia Manufacture [Q7] -- Putin administration and FSB. High.
+  Normalcy Anchor [Q7] -- incumbent political class. High.
+  Security Framing [Q7] -- siloviki and military complex. High.
+  Necessity Escalation [Q6] -- Putin inner circle. High.
+  Enantiodromia [Q4] -- nationalist-Orthodox institutional class. High.
+  Calibration Strip [Q8] -- current class [Soviet record not
+  transmitted]. High.
+  Martyrdom Laundering [Q8] -- Putin administration [WWII as moral
+  permission]. High.
+
+Prediction: real wage decline becomes politically unmanageable within
+three years without major policy reversal. Emigration of high-skilled
+population continues accelerating. If wrong -- internally initiated
+correction event before external pressure forces it.
+
+
+--------------------------------------------------------------------------
+ISRAEL / PALESTINE
+--------------------------------------------------------------------------
+
+Protocol completed: 1-10.  Confidence: provisional [highest T3 risk
+in library. Adversarial reading produced but full honesty of it cannot
+be certified. Framework cannot resolve historical rights disputes.
+It measures outputs against named populations in defined windows only].
+
+Irreversibility finding: Palestinian population Gaza bears irreversible
+harm [50k+ deaths documented as of May 2026, near-total displacement,
+infrastructure and institutional destruction]. West Bank: irreversible
+harm via settlement displacement [ongoing since 1967] and resource
+extraction. Israeli civilian population: irreversible harm via October
+7 attacks [1200 deaths, hostage-taking] -- real and documented. Both
+populations bear irreversible harm. Gaza Palestinian population bears
+irreversible harm at substantially higher volume and rate in current
+window. Output reading not a rights judgment. Weight shifts toward
+Palestinian Boundary B in current window.
+
+Analyst prior declared: expected Martyrdom Laundering and Necessity
+Escalation as high-confidence weapons. Matched prior. Maximum scrutiny
+on tests 2 and 3. T3 flag maintained. Full bias elimination cannot be
+certified.
+
+Adversarial reading: Israel faces genuine existential security threat --
+not manufactured. October 7 demonstrated real capability and intent.
+Hamas governs Gaza as extraction topology running against its own
+population -- documented. Israel's correction capacity is real -- Supreme
+Court, press, protest movements function. Internal dissent over war
+conduct is visible and tolerated. Martyrdom Laundering diagnosis may
+underweight genuine historical persecution. Some Boundary B harm is
+Hamas-generated not Israeli-generated -- framework cannot cleanly
+attribute at this granularity. Assessment: adversarial case is real and
+partially sustained. Hamas as extraction topology is a genuine
+confounding factor. Does not change irreversibility finding on volume.
+
+Third population [Arab states in normalized relation, no direct stake]:
+Israeli state actions read as disproportionate. Palestinian cause has
+regional legitimacy independent of Hamas. Hamas extraction topology
+visible and real.
+
+Boundary A [Jewish Israeli citizens]: Q1 running. Q2 positive within
+boundary. Q3 present and real -- internal contestation visible. Q4
+mixed -- democratic stated axis, territorial expansion operational axis.
+Reading: Mixed-stable to Mixed-collapsing by window.
+
+Boundary B [Palestinian population -- Gaza, West Bank, Israeli Arab
+citizens]: Q2 extraction dominant. Q5 manipulation explicit and legally
+structured. Q6 Necessity Escalation running. Q3 absent. Reading:
+Captured state, consumption dominant in current window.
+
+Discordance: very large in current window. Hamas topology confounds
+weapon attribution at Boundary B. Noted, not resolved.
+
+Window split: Short [October 2023-present] -- Boundary B consumption
+at maximum rate. Long [1967-present] -- systematic Boundary B
+extraction consistent directionality. Long window confirms structural
+extraction pattern predating current conflict.
+
+Weapons active [post adversarial scrutiny]:
+  Martyrdom Laundering [Q8] -- Israeli state and lobby networks
+  [Holocaust as moral foreclosure on output measurement]. High.
+  Contamination Framing [Q5] -- Israeli state and advocacy
+  [antisemitism accusation as measurement suppression]. High.
+  Necessity Escalation [Q6] -- Israeli security/military apparatus
+  [each action justified by prior]. High.
+  Boundary Manipulation [Q5] -- settlement movement. High.
+  Universalism Trap [Q5] -- state framing apparatus. High.
+  Security Framing [Q7] -- military-security complex. Contested
+  [genuine security condition partially sustained]. Half value.
+  Obligation Manufacture [Q7] -- state and ally governments [Holocaust
+  obligation framing]. Contested [genuine historical weight]. Half.
+
+Prediction: settlement expansion will continue or accelerate regardless
+of stated peace commitments. Observable within two years. If wrong --
+internally initiated correction event on settlement expansion before
+external pressure. No such event in 57-year window to date.
+
+Note: framework cannot resolve whether October 7 changes the moral
+calculus of prior extraction. Long window output reading does not
+change based on the trigger event.
+
+
+--------------------------------------------------------------------------
+AIPAC / US ISRAEL LOBBY
+--------------------------------------------------------------------------
+
+Protocol completed: 1-10.  Confidence: partial.
+
+Irreversibility finding: Palestinian population bears irreversible harm
+as downstream output of influenced US policy [weapons supply, UN veto,
+diplomatic cover]. US general population bears primarily reversible
+harm. US Muslim and Arab-American communities bear partially irreversible
+harm [chilling political participation]. Weight shifts toward Boundary B.
+
+Analyst prior declared: expected functional at Boundary A, captured
+legislative topology at Boundary B. Matched prior. Tests 2 and 3
+applied.
+
+Adversarial reading: AIPAC operates within legal democratic lobbying
+framework identical to other interest lobbies. Pro-Israel sentiment has
+genuine popular support independent of lobby activity. Politicians may
+support Israel because constituents do, not because lobby compels.
+Assessment: partially sustained. Popular support is real. But
+Contestation Cost Asymmetry and career consequences exceed comparable
+lobby contexts and are documented.
+
+Third population [Latin American states, no Israel-Palestine exposure]:
+US foreign policy appears captured on this issue. Veto pattern at UN
+anomalous. Lobby influence reads as real from external observation.
+
+Boundary A [stated -- pro-Israel advocacy, democratic participation]:
+Q1 running. Q2 positive for member constituency. Q3 present. Reading:
+functional within stated boundary.
+
+Boundary B [US general population, Palestinian population bearing policy
+outputs]: Q5 Boundary Manipulation. Q7 Contestation Cost Asymmetry
+[career consequences documented, asymmetric vs comparable contexts].
+Q3 Correction Theatre [debate structures without genuine correction
+reaching policy output -- veto record confirms]. Reading: captured
+legislative topology.
+
+Discordance: Boundary A functional, Boundary B captured. Gap is the
+finding.
+
+Window split: Short [2020-present] -- Contestation Cost Asymmetry
+documented. Long [1970-present] -- lobby influence consistent across
+administrations and parties. UN veto pattern anomalous vs all other
+US foreign policy contexts. Long window confirms structural capture.
+
+Weapons active:
+  Contestation Cost Asymmetry [Q7] -- AIPAC and allied organizations.
+  High.
+  Obligation Manufacture via Moral Debt [Q7] -- Israeli state and lobby
+  [Holocaust framing]. Contested -- genuine historical weight. Half.
+  Contamination Framing [Q5] -- lobby and Israeli state. High.
+  Legitimacy Transfer [Q8] -- lobby [democratic legitimacy borrowed for
+  policy outcomes disconnected from democratic input]. High.
+  Measurement Surface Control [Q7] -- lobby and allied media. Contested
+  -- degree uncertain. Half value.
+
+Prediction: US veto at UN Security Council will continue regardless of
+sitting president's stated preferences. Congressional criticism of
+Israeli state action will continue to carry career cost asymmetric to
+other foreign policy topics. Observable within current legislative
+session. If wrong -- elected officials respond to constituent pressure
+on Israel/Palestine proportionally to other foreign policy topics. No
+documented case of this in current window.
+
+
+==========================================================================
+WORK IN PROGRESS
+==========================================================================
+
+CONVENTION: Items marked RESOLVED are removed at session start when
+file is uploaded. Mark resolved items clearly before saving.
+Items without a clear path forward are noted as open problems.
+
+  2. Weapon percentage values: uncalibrated. Calibration procedure
+     identified:
+
+     Anchor weapons [highest-confidence, clearest damage evidence]:
+       Transmission Capture -- Word Bearers [entire configuration
+       traceable to single transmission event].
+       Measurement Surface Control -- Palpatine [civilizational scale,
+       other weapons downstream of this one].
+       Martyrdom Laundering -- Griffith [permanent measurement
+       foreclosure across full post-Eclipse window].
+     Assign anchors first [suggested 85-95% range]. Calibrate
+     remaining weapons relative to anchors.
+
+     Structure: range [floor/ceiling] per weapon, not single value.
+     Floor = weakest proof case. Ceiling = strongest proof case.
+     Single percentage values are less honest and less useful than
+     ranges derived from actual case variance.
+
+     Constraint: calibration is only meaningful relative to specific
+     population and window. Case-specific scores, not universal ones.
+     Requires systematic pass through full case library.
+
+  3. Q7 proof case assignments: cases predating Q7 addition may have
+     incorrect quality assignments. Ongoing.
+
+  4. Q8 proof case library needs expansion. Calibration Strip needs
+     percentage value calibrated.
+
+  5. Fertile Lock correction pathway: open problem. No confirmed self-
+     initiated correction case. Chimera Ant arc [HxH] may contain the
+     only observed internal mechanism -- genuine relationship producing
+     axis shift in terminal node. Needs testing against framework.
+
+  6. Geometric model: torus holds for Q1-Q7 single-unit. Hybrid model
+     [torus nodes + directed transmission edges] identified for Q8.
+     Full formalization pending.
+
+  7. New weapons pending calibration: Axis Fragmentation, Coherence
+     Rent, Inversion of Burden, Signal Saturation, Calibration Strip,
+     Proxy Capture, Exhaustion Engineering, Consensus Manufacture,
+     Horizon Collapse.
+
+  8. Scaling limits: empirical finding, not derivable from eight
+     qualities. No clean solution. May be structural, only delayed.
+
+  9. Political cases: all provisional. High T3 risk. Independent review
+     recommended before use as confirmed readings.
+
+ 10. Coherent Exit proof case library thin. Needs more case testing.
+
+ 11. WATF Buddha character: T2 Pre-resolution, pending more source
+     material.
+
+ 12. Boundary selection / Q5-Q7 interaction needs systematic
+     documentation across case library.
+
+ 14. WATF transcript findings pending clean integration in v8:
+     - Nightmare Stones = Incremental Commitment [Engineered] primary
+       proof case -- exit option designed as trap before anyone took
+       first step.
+     - Tutorial system = Proxy Capture -- genuine system denial
+       harvested as product output by Beastrain.
+     - Seventh Gate: Q3 intact while Q7 [self-measurement surface]
+       compromised simultaneously -- framework hadn't separated these
+       at individual scale before.
+     - Relational memory as Q7 substitute -- genuine relationships
+       functioning as measurement surface substitute when primary
+       surface has failed. New finding with broad applications.
+     - File has structural drift from long build -- v8 needed for
+       clean integration.
+
+     Finding: currency itself is neutral across history. Extraction
+     mechanisms are consistent [debasement, Metric Capture, boundary
+     manipulation] but are weapons deployed through currency, not
+     properties of currency itself. Adversarial case [currency as
+     neutral coordination tool] is historically sustained.
+
+     Fractional reserve banking: genuinely mixed reading. Real capital
+     formation happens [generative]. Benefit and cost distribution
+     asymmetric by design -- gains privatized, failure costs
+     systematically socialized [2008 proof case]. Not purely extractive,
+     not neutral. Beneficiaries: banks [interest on money not fully
+     held], businesses [capital access]. Cost-bearers: depositors
+     [inflation risk], populations bearing systemic collapse risk,
+     countries displaced by dollar-denominated reserve system.
+
+     WARNING: modern framing bias probable. Historical testing helps
+     but does not eliminate. Full political protocol still required
+     before any specific currency system reading is confirmed.
+
+     Still lacking: fiat currency reading tested across full window
+     [20th century only, insufficient]. Debasement as Q7 weapon vs
+     Q2 failure distinction needs case calibration. Fractional reserve
+     failure cost socialization needs boundary selection applied
+     formally. Currency as political case not yet ready for confirmed
+     reading.
+
+
+==========================================================================
+END OF DOCUMENT -- Coherence Framework v7
+==========================================================================

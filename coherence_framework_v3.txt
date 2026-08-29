@@ -1,0 +1,456 @@
+COHERENCE FRAMEWORK — SCHEMA v3
+================================
+
+
+SECTION ONE — METHOD
+====================
+
+BASIC QUALITIES OF COHERENCE
+Six qualities. Mutually dependent — missing one is a specific failure mode at that quality.
+
+Generative cycle — completes a loop, takes in, transforms, returns. Opposite: cycle collapse or performance.
+Surplus production — outputs exceed cost of running cycle across honest window. Moral content lives here. Opposite: consumption dominance.
+Correction capacity — detects contradiction between outputs and orientation, moves without external pressure. Opposite: correction absence or capture.
+Genuine axis — orientation from internal generation with self-examination present. Includes transmission fidelity. Opposite: imposed axis.
+Boundary integrity — honest definition of who is inside boundary, does not shift to exclude populations experiencing harm. Opposite: boundary manipulation.
+Proportional response — correction force proportional to deviation detected, not to threat correction poses to existing power. Opposite: overcorrection as suppression.
+
+Structural order: generative cycle is precondition. Surplus production is where moral value lives. Correction capacity keeps cycle honest. Genuine axis gives correction direction. Boundary integrity keeps measurement honest. Proportional response keeps correction from becoming next failure.
+
+Anti-coherence runs same order in reverse.
+
+
+GOALS
+Accurate measurement of generating versus consuming across defined population and time window. Named parameters before measurement begins — boundary, population, window, substrate.
+Identification of failure mechanism not just failure presence. Each failure state has different correction pathway.
+Practical utility. If a component does not produce a reading more useful than intuition alone, it does not belong.
+
+
+VALUES
+Good = material security + reduced coercive exposure + expanded options. Named population groups, defined relational boundary, honest window. Trackable from outputs without access to internal states.
+Bad = transfers that increase coercive exposure, reduce material security, or narrow options regardless of intent. Intent = mechanism evidence only, does not modify output reading.
+Framework does not initiate critical harm in response to Low coherence. Response to critical harm = minimum necessary, contextual, measured from outputs.
+
+
+COHERENCE WEAPON TEST
+Asks: is this system being used as a weapon against coherence rather than as an expression of it? Applied first in any measurement.
+
+Framework maintains living index of identified coherence weapons. Each weapon carries percentage value reflecting relative damage to coherence, calibrated against case library. Index grows and reduces as weapons are identified, consolidated, or found redundant.
+
+Scoring procedure:
+- Identify contextually relevant weapons. Irrelevant weapons exit pool entirely — do not score zero.
+- Weapon clearly present = full percentage value.
+- Close match = half value.
+- Not relevant = exits pool.
+- Final score = sum of scored values / sum of relevant pool total values. High percentage bad. Low percentage good. Zero = no weapons present or none relevant — distinction noted in report.
+
+Deployment direction identified before scoring:
+- Defensive [protecting genuine coherence against external extraction pressure] = noted in report, not scored against system.
+- Aggressive [suppressing measurement of own extraction] = scores normally.
+- Direction determined by net transfer reading not stated intent.
+
+Scale and timescale note: large institutions across long timescales expected to show high weapon deployment regardless of coherence level. Diagnostic question is proportion defensive versus aggressive within specific measurement window.
+
+Short window most reliable for weapon detection. High concentration in short recent window = active obscuration of something present not historical.
+
+
+COHERENCE WEAPON INDEX
+Living list. Percentage values pending calibration against case library.
+
+Weapons by quality attacked:
+Generative cycle — Intermittent Reinforcement, Isolation Construction, Scarcity Manufacture.
+Surplus production — Metric Capture, Stakeholder Diffusion, Baseline Shift.
+Correction capacity — Thought Stopping, Philosophical Disarmament, Competence Undermining, Reality Distortion, Amnesia Manufacture.
+Genuine axis — Divine Mandate Claim, Transmission Capture, Axis Substitution, Loaded Language.
+Boundary integrity — Stakeholder Diffusion, Universalism Trap, Boundary Manipulation.
+Proportional response — Coherence Inversion, Necessity Escalation, Sacrifice Frame.
+
+Universalism Trap — framing particular group's interest as universal, making contestation appear as opposition to universalism.
+Procedural Shield — procedural compliance as substitute for output measurement. Variant: Procedural Exhaustion.
+Baseline Shift — moving reference point for normal in direction that benefits shifting party.
+Necessity Claim — asserting harmful action was only option. Variant: Horizon Extension. Variant: Eschatological Horizon Extension.
+Sacrifice Frame — requiring population to accept harm as proof of commitment to goal defined by extracting party.
+Complexity Shield — generating complexity that makes honest measurement practically impossible. Variant: Expertise Shield. Variant: Procedural Exhaustion.
+Measurement Surface Control — capturing mechanism by which outputs are evaluated so system defines own success criteria.
+Contestation Cost Asymmetry — challenging outputs costs more for some groups than others. Variant: Discovery Weaponization.
+Transmission Capture — replacing genuine axis of successors with imposed axis before self-examination operational.
+Dependency Construction — target cannot repair itself without ongoing input from capturing system. Variant: Intercession Monopoly.
+Selection Pressure Narrowing — only immediate, local, surface-level signals reach correction mechanism.
+Performed Correction — visible correction outputs without genuine correction mechanism.
+Axis Substitution — replacing genuine axis with externally imposed axis without system detecting substitution.
+Scarcity Manufacture — artificially reducing resources to force consumption-dominant operation, then using consumption as evidence of inherent failure.
+Legitimacy Transfer — borrowing credibility from high-coherence source through proximity not earned output. Variant: Persuasion Ad Hominem. Variant: Regulatory Capture Legitimacy. Variant: Legacy Coherence.
+Normalcy Anchor — using continued surface function as evidence against substrate consumption readings.
+Correction Theatre — initiating visible first steps of genuine correction then halting before reaching mechanism producing harm. Variant: Diversion.
+Obligation Manufacture — converting something genuine into asymmetric obligation foreclosing present measurement. Variant: Moral Debt Construction. Variant: Solidarity Capture. Variant: Insider Knowledge Trap.
+Extension — stretching target's claim beyond actual scope then attacking the extension.
+Virtu Performance — displaying strength at strategic moments to reset others' correction capacity.
+Necessary Cruelty Framing — consolidating harm early then withdrawing it, making initial consumption read as restraint.
+Accident Fallacy Weaponized — applying general rules to specific cases where rule does not hold.
+Appearance Management — systematic mismatch between visible and actual capability. Variant: Deniability Architecture.
+Love Bombing then Withdrawal — extreme positive reinforcement followed by withdrawal as correction suppression.
+Thought Stopping — automatic interruption of self-examination at specific trigger points.
+Loaded Language — in-group terminology that pre-decides conclusions inside the words.
+Exit Cost Construction — increasing cost of leaving until correction requires destroying own substrate.
+Incremental Commitment — chain of small commitments making terminal position unreachable from entry point.
+Reality Distortion — contradicting accurate perceptions until target defers to operator's version of events.
+Competence Undermining — eroding target's confidence in own judgment in domains relevant to measurement.
+Amnesia Manufacture — denying or reframing past events to prevent target using own history as evidence. Attacks window directly.
+Isolation Construction — reducing target's access to outside correction signals.
+Altruism Exploitation — converting genuine care into compliance lever.
+Intermittent Reinforcement — unpredictable reward/punishment producing correction capacity collapse. Only weapon destroying correction capacity without stable axis to correct against.
+Shareholder Primacy Framing — measurement boundary defined as shareholder return only.
+Churn Normalization — high turnover treated as industry standard not substrate consumption signal.
+Vision Laundering — genuine transformative language attached to extraction operations.
+Stakeholder Diffusion — population expanded so broadly net transfer direction becomes unmeasurable.
+Consultancy Shield — Low-output decisions outsourced to external parties, breaking accountability chain.
+Metric Capture — proxy metrics substituted for genuine output measurement. Distinct from Measurement Surface Control.
+Heresy Framing — boundary contestation defined as spiritual threat.
+Salvation Capture — access to terminal goods made dependent on institutional compliance.
+Divine Mandate Claim — axis origin asserted to be outside human measurement entirely. Only weapon making a basic quality test structurally inapplicable.
+Sinfulness Framing — natural correction signals converted into evidence of personal moral failure.
+Need-to-Know Compartmentalization — information fragmented so no single actor can measure full output pattern.
+Security Framing — measurement attempts made readable as threats to collective safety.
+Desire Manufacture — creating need the product satisfies before measuring whether need is genuine.
+Social Proof Fabrication — manufacturing consensus signals to bypass individual correction capacity.
+Attention Capture — occupying correction capacity with low-value signal.
+Precedent Laundering — low-stakes cases used to establish precedents foreclosing measurement in high-stakes ones.
+Contamination Framing — legitimate measurement associated with condemned positions.
+Credible Commitment Trap — irreversible commitments eliminating target's correction options.
+Information Asymmetry Exploitation — structuring interactions so one party cannot measure other's actual position.
+Coherence Inversion — system's own correction capacity used as attack vector. Proof: Joker.
+Benevolent Capture Framing — axis-locked conscription presented as liberation. Proof: Dagoth Ur.
+Martyrdom Laundering — genuine past suffering converted into moral permission for present extraction. Proof: Griffith.
+Necessity Escalation — each consumption action justified by previous, original claim never re-examined. Proof: Ur-Didact.
+Philosophical Disarmament — genuine insight used to lower correction capacity before consumption mechanism engages. Proof: Gravemind.
+Enantiodromia — axis inversion readable as High coherence if window too short to capture pre-inversion state.
+Coherence Mimicry — technically informed performance of High coherence outputs without generative mechanism.
+
+
+======================
+SECTION TWO — MEASUREMENT
+======================
+
+Parameters required before measurement begins: Population, Window, Method, Substrate. Missing any = Variable by default.
+
+Output states: None / Low / Middle / Variable / High / State. Middle requires substrate specification or returns Variable.
+
+Rules:
+- Legitimacy and morality = parallel tracks measured separately.
+- Intent = mechanism evidence only, does not modify output reading.
+- Population groups measured separately, not aggregated.
+- Boundary selection = value selection. Moral filter applies before boundary selection.
+- Past novel-input responses = most reliable evidence within window.
+- Net transfer direction distinguishes parasitic from mutualistic. Volume secondary to direction.
+- Individual actor properties = mechanism evidence only. Actor reading and system reading are parallel tracks.
+
+
+THREE-AXIS MEASUREMENT
+
+Coherence axis [horizontal] — cycle integrity across all six basic qualities. Left = anti-coherence, right = coherence. Independent of moral direction.
+
+Generation axis [vertical] — surplus direction. Up = positive generation for unit and surrounding units. Down = extraction from unit and surrounding units.
+
+Capture axis [depth] — degree to which orientation has been conscripted by external force.
+- Front [Low capture] = friction at boundary, correction capacity intact.
+- Mid [Mild capture] = selective deviation suppression internalized as preference.
+- Back [High capture] = axis shifted below self-examination depth, experiences capturing orientation as own values completely.
+
+Three-axis position gives full coherence reading. Coherence and generation axes describe what the system is doing. Capture axis describes whether it is doing it under its own orientation or someone else's.
+
+High coherence + positive generation + High capture = most dangerous configuration — outputs look genuine while axis serving them belongs to external party.
+
+Groups capture groups inside boundaries. Internal capture signature: differential contestation cost by group, selective deviation suppression by group, surplus flowing from one group position toward another consistently.
+
+Captured systems almost always run by people who believe they are not captured — structural property of High capture not moral judgment.
+
+Directionality composite maps movement across all three axes simultaneously.
+
+STATE MEASUREMENT PROCEDURE [subsection of Three-Axis]
+Four tests in sequence. Different failure modes require different correction pathways — wrong correction accelerates failure.
+
+Test one — Contestation Cost Asymmetry. Most useful, most accessible. Readable from outputs without stress event. Identifies capture presence and location.
+Test two — Transfer Direction. Net surplus flow across short window. Extractive + asymmetric = capture. Generative + asymmetric = developmental gap.
+Test three — Correction Initiation. Does state self-correct before external pressure? Historical reconstruction preferred.
+Test four — Directionality Composite. Direction of movement across all three axes.
+
+Failure mode identification:
+Asymmetric + extractive + correction absent = captured state.
+Asymmetric + generative + correction present = contained state / developmental gap.
+Symmetric + extractive + correction absent = Axis-Lock state.
+Symmetric + extractive + correction present = consumption failure.
+Symmetric + generative + correction present = functional state — check directionality for trajectory.
+
+
+FAILURE STATES
+All share one property — coherence running in wrong direction, not absent. All systems in failure states are operational.
+
+Dependency — cycle cannot run without borrowed framework or founding person it cannot repair or replace. Proxy fails gradually. Transmission fails suddenly on exit.
+Selection Pressure — only immediate, local, surface-level feedback reaches correction mechanism. Corrects locally, fails at boundary. Natural result of evolutionary pruning — unused correction infrastructure shed through surplus economics.
+Consumption — cycle costs more than it produces. Draws down substrate to cover deficit, accelerating deficit.
+Contained — genuine coherence, uneven coverage. Developmental gap not structural damage. Not degenerative. Proof: John-117, Casca post-Eclipse.
+Axis-Locked — full coverage, axis shifted below self-examination depth, higher coherence produces more damage. Proof: Dagoth Ur, Ur-Didact, Griffith post-Eclipse.
+Axis Concealment [Axis-Lock property] — axis genuine and internally set, no external captor, deliberately obscured from population it extracts from until concealment no longer necessary. Stress event does not change unit — removes performance requirement. Pre-stress reading returns two simultaneous honest outputs depending solely on boundary selection. Post-stress ambiguity resolves because measurement surface became honest not because unit changed. Proof: Griffith pre-Eclipse.
+
+
+AXIS-LOCK SUBTYPES
+Subtype provisional before all three tests accessible, confirmed after.
+
+Test one — reaction against targets:
+Violence-axis: destroys regardless of utility.
+Change-axis: manipulates and complexifies, target exhaustion triggers redirection not cessation.
+Decay-axis: degrades gradually, prefers high-coherence targets.
+Excess-axis: extracts intensity, loses interest when target cannot produce novel sensation.
+
+Test two — critical reaction against itself:
+Violence-axis: continues, self-damage not a correction signal.
+Change-axis: schemes around it, treats self-damage as new variable.
+Decay-axis: accepts it, comfort-mediation applies to self as readily as targets.
+Excess-axis: accelerates into it, self-damage producing intensity indistinguishable from target-damage.
+
+Test three — general group behavior:
+Violence-axis: attacks other units when no external target available.
+Change-axis: schemes against other units continuously, same-axis units are targets not allies.
+Decay-axis: passive coexistence, entropy requires no active competition.
+Excess-axis: competes for highest-intensity available target, low conflict when targets abundant, high conflict under scarcity.
+
+
+STRUCTURAL BREAK AND TERMINAL STATES
+Conditions where framework assumptions fail and standard tools stop working. Ordered by severity.
+
+Consuming structural break — system eliminates own measurement surface as it grows.
+- Active variant requires ongoing operation. Proof: Gravemind, Brethren Moons.
+- Structural variant is passive and architectural. Proof: replicant lifespan, Roy Batty exceeding design parameters.
+Chaotic structural break — genuine mechanism, no stable axis, cannot be corrected against. Proof: Joker.
+Total Coherence [terminal] — consuming coherence complete, no exterior remains, observer/observed distinction eliminated, framework cannot run. Distinguished from Consuming break by completion — Consuming is in progress, Total is the terminal state after break completes. Proof: Flood victory, Femto post-Eclipse at subsystem scale.
+
+
+COHERENCE TYPES
+Usage of type is the signal for whether output is genuine or performed. Gap between claimed type and actual usage pattern is readable from outputs without access to internal state.
+
+Signal — direct democracy. Output: fast correction cycles.
+Relational — syndicalist federation. Output: transmission artifacts — documents, protocols, federation structures.
+Intrinsic loose — mutualist commons, most durable. Output: durable mutual dependence without institutional architecture.
+Combined — bidirectional surplus and correction across boundaries. Note: permission-required correction tends to reproduce centralized axis.
+Extractive Intrinsic — structurally identical to intrinsic loose, axis is personal extraction not mutual generation. No transmission mechanism, no coordination required. Collective effect = aggregate consumption. Durable only as long as substrate persists. Temporal persistence requires external constraint preventing immediate substrate termination. Output: compatible consumption without coordination evidence. Proof: Hell-type entities.
+Family — smallest boundary system, highest weapon intensity per unit size. Defining property: identical delivery mechanism for genuine goods and weapons — love is both genuine good and Love Bombing vector, care is both genuine surplus and Altruism Exploitation, memory is both transmission mechanism and Amnesia Manufacture target. Transmission dependency dominant. Output: intimate surplus generation and weapon deployment through identical channel.
+Science — correction capacity is primary axis and primary output. Peer review = correction initiation infrastructure. Replication = verification mechanism. Paradigm = axis, revisable when evidence contradicts it. Unique vulnerability: capturing correction mechanism captures science completely. Primary weapons against: Metric Capture, Selection Pressure Narrowing, Measurement Surface Control, Funding Dependency Construction, Complexity Shield. Output: replication artifacts, paradigm revision events, anomaly integration.
+Anti-Capture / Silent Alternative — resists capture structurally through bidirectional correction paths, equal contestation cost distribution, surplus generation readable from outputs. Grows by output differential not by suppressing alternatives. Suppression requires disproportionate visible force — self-defeating. Silent Alternative is strategic expression — legally benign, no declared opposition, T2 indeterminate until transition. Anti-capture is structural property underneath. Silent without anti-capture = concealment not configuration. T2 indeterminate until transition stress event in all cases.
+
+
+DIRECTIONALITY COMPOSITE
+Measures direction of movement across all three axes independent of current position. Four signatures, equal weight, measured independently.
+
+Signature one — novel input response. 1 = integrates genuinely novel inputs requiring axis adjustment. 0.5 = evidence present but measurement condition compromised. 0 = inaccessible.
+Signature two — scarcity behavior. 1 = axis maintains orientation under resource drop without external compensating supply. 0.5 = partial evidence. 0 = inaccessible.
+Signature three — correction initiation. 1 = corrections demonstrably happen before external pressure arrives. 0.5 = observer effect compromises window. 0 = inaccessible. Historical reconstruction preferred.
+Signature four — contestation asymmetry. 1 = contestation cost consistent across group positions inside boundary. 0.5 = partial data. 0 = inaccessible.
+
+Output format: score / signatures accessed / ceiling flag.
+0.75 from two of four [ceiling limited] = provisional positive claim flagged for gap.
+0.75 from four of four = strong positive claim at same score.
+
+Change directionality test:
+- Identify initiation mechanism — internal correction or external pressure response.
+- Internal change before external pressure = positive signal.
+- External-pressure-responsive change = negative signal.
+- High coherence system that never changes = early Axis-Lock symptom.
+- Low coherence change = negative diagnostic signal — thrashing or capture mechanism updating.
+
+
+COHERENCE TOPOLOGY
+Maps interconnected units as a system rather than measuring individually.
+
+Components:
+- Units as nodes — each named population group or bounded system.
+- Transfer directions as edges — net transfer direction between adjacent units.
+- Node properties — three-axis position, output state, directionality composite score.
+- Capture relationships as weighted edges — capture axis reading expressed as directional weight.
+- Weapon deployment as edge property — weapons active at boundary between units.
+
+Reading the topology:
+- Surplus flows identify generative core.
+- Consumption flows identify extraction pattern.
+- Cascade failure visible as topology property.
+- Capture chains readable across multiple edges.
+
+Meta-boundary measurement — name the boundary containing all units before reading collective output. Meta-boundary reading independent of unit readings, may contradict them simultaneously. Collective output = topology property not unit property. Scale transition points [where unit readings flip at meta-boundary level] = highest-value measurement locations.
+
+Honest limit: T2 indeterminate at unit level propagates uncertainty to meta-boundary but does not invalidate it.
+
+Multiple Topology Overlap Procedure:
+- Map all topologies unit participates in.
+- Run transfer direction in each.
+- Concordant readings across topologies = strongest possible signal.
+- Discordant readings = locate where unit is generating versus being extracted from. Discordance is the finding not measurement failure.
+- Discordant boundaries = highest-value measurement locations.
+
+Topology finding across case library: every sustained evil produces identical pattern — consumption-dominant terminal node fed by capture chains running through intermediate nodes that believe they are operating normally.
+
+General principle: institutions tend to produce highest genuine surplus under external pressure when defensive weapon deployment dominates, lowest during dominance periods when aggressive deployment increases. Transition from pressure to dominance = scale transition point where meta-boundary reading most commonly flips.
+
+
+HONEST LIMITS
+
+T1 [resolvable] — parasitic versus mutualistic: track net transfer direction, stress behavior, boundary behavior. Live versus performed momentum: novel condition testing.
+
+T2 [indeterminate] — genuine versus performed coherence before domain stress test. Contained versus Axis-Locked before stress test. High versus Total capture before stress event. Axis Concealment before stress event. Silent Alternative axis direction before transition event.
+
+T3 [unreachable] — framework cannot calibrate own axis from inside own operation. Applies to the framework itself.
+
+T4 [structural obscuration] — net transfer direction across actual population boundary is systematically the thing most obscured by weapon deployment. Not a calibration or data access problem — structural. Framework's measurement tools and weapons against measurement are pointed at the same target from opposite directions.
+
+Difficult measurement cases:
+
+Enantiodromia — axis inversion readable as High coherence if window too short. Extend window until pre-inversion reading accessible. Correction initiation signature flips at inversion point — only discriminating tool.
+
+Coherence Mimicry — technically informed performance without generative mechanism. Novel input response is discriminating test. Scarcity behavior second.
+
+Emergent Harm — topology produces Low meta-boundary while every node reads High individually. No actor, no weapon, no capture — harm emerges from transfer pattern. Map accumulation point for correction target. Requires topology-level intervention — most difficult correction case in framework.
+
+Legacy Coherence — drawing on genuine past High coherence without current surplus generation. Short window reads Low, long window reads High. Gap between readings is the signal.
+
+Synchronous Contradictory States — unit running genuinely contradictory states simultaneously. Strategic variant: resolves at transition stress event. Structural variant: both sub-units running real axes, damage emerges from contradiction pattern. Real-world analog: severe internal conflict states. Run separate readings per sub-unit. Unified reading T2 indeterminate, per sub-unit T1 resolvable. Proof: Marika/Radagon [structural], Griffith [strategic].
+
+
+======================
+SECTION THREE — THEORY
+======================
+
+The Coherence Complex is a framework for analyzing how systems maintain or lose internal integrity over time, what distinguishes genuine function from performed function, and how failure of large systems relates to failure of individual units composing them. It is one structured way of looking at these problems. Conclusions follow from its structure and the cases it has been tested against — different structural choices would produce different conclusions.
+
+The framework makes certain things visible — direction of net transfer, presence or absence of genuine correction capacity, difference between genuinely set axis and imposed one. It makes other things harder to see. Honest limits section names the most significant. T3 limit is where the framework cannot see itself clearly — real and not resolvable from inside its own operation.
+
+Intellectual history: geometric intuition — coherence as torus, stability through movement not absence of movement — came from thinking about physical systems and the difference between dynamic and static equilibrium. Moral substrate came from thinking about what distinguishes systems that generate from systems that extract, applied to historical cases where distinction was visible in outputs. Capture axis came from thinking about why intelligent, sincere people run systems that produce bad outputs — capture is primarily a structural failure not a moral one.
+
+The framework is not complete. Work in progress section names specific gaps. Theory is not finished because case library is not finished — every new case tests framework against conditions it was not built to handle. Some conditions will require the framework to change rather than the case to be forced into existing categories. That process is not a failure of the framework. It is the correction mechanism working.
+
+Use as a tool for seeing more clearly, not as an authority for reaching conclusions. When framework's reading conflicts with other evidence, both deserve serious examination.
+
+Most important claim: failure is coherence doing the wrong thing, not coherence being absent.
+
+Evolutionary coherence principle — coherence infrastructure not actively load-bearing is lost through surplus economics not through capture. Correction mechanism requires active use to remain functional. Dynamic equilibrium between coherence and anti-coherence is the generative condition — too much pressure collapses the system, too little and correction capacity atrophies. Maps onto torus model — stability through movement. A torus with no external forces is a static object, not a stable one.
+
+Anti-coherence is a different way of organizing existence that the framework measures against but does not require as a condition. Pressure-free coherence requires either practice infrastructure keeping correction mechanism actively engaged, or an axis simple and concrete enough to self-verify without external feedback.
+
+
+======================
+CASES
+======================
+
+Hell taxonomy — Trench Crusade. Primary: Mammon-type acquisition axis entity. Demonstrates Extractive Intrinsic type, complexity ceiling, preservation-adjacent versus genuine long-term coherence distinction, axis compatibility failure under resource competition, pact exploitation signature. Contrast cases: violence-axis [cleanest Axis-Lock profile], change-axis [self-examination that is itself axis-locked], decay-axis [comfort-mediated acceptance]. All Hell-type entities: Extractive Intrinsic structure, compatible selfishness producing collective behavior without coordination, loose goal sustained by pact constraint and opposing pole, complexity ceiling preventing development beyond intensity scaling.
+
+Blood-Soaked Court — Trench Crusade. Single best human-side case. High coherence + High capture simultaneously. Axis-Lock with genuine internal experience of captured axis as own values. Negative directionality across two signatures. Pact exploitation through willing human coherence as indirection channel. Scarcity behavior negative — axis stability from external infernal supply chain not internal generation. Three-axis: right, down, back.
+
+Church Militant — Trench Crusade. Genuine High coherence under sustained scarcity — scarcity behavior positive. Weapons: Obligation Manufacture via Moral Debt, Correction Theatre, Solidarity Capture variant. Distinguished from Blood-Soaked Court by opposite capture readings in same setting explained by directionality composite. Three-axis: right, up, front-mid.
+
+Imperium of Man — Warhammer 40K. Primary Collapse case at civilizational scale. Cycle running, institutional markers functioning, substrate consumption invisible from inside own measurement surface. Net transfer direction — tithe, conscription, psyker collection extracting at accelerating rate while generative capacity declines across ten thousand year window. Weapons: Normalcy Anchor [primary], Horizon Extension, Sacrifice Frame, Legitimacy Transfer. Three-axis: right of center, strongly down, mid.
+
+Word Bearers — Warhammer 40K. Primary case for change directionality negative reading and Change-axis Lock subtype. Pre-Monarchia: genuine High coherence change, internally initiated. Monarchia censure: external pressure without answering the examination, creating capture entry condition. Post-Monarchia: change directionality flips — examination capacity running at full power but justifying fixed conclusion. Terminal: examination capacity maintained and cultivated by capture mechanism. Isstvan III: purging correctable not disloyal. Most stable Chaos Legion because configuration is self-sustaining. T2 indeterminate before domain stress test. Three-axis: far right, strongly down, back.
+
+Salamanders — Warhammer 40K. Primary case for change directionality positive reading and material feedback loop as capture resistance. Nocturne's volcanic cycle made genuine mutualism the only viable coherence strategy — correction anchor captured examination capacity cannot fake. Isstvan V: axis survives input drop. Transmission test passed — coherence sustained without Primarch. Three-axis: right, up, front.
+
+Palpatine/Darth Sidious — Star Wars. Primary case for maximum simultaneous weapon deployment. Thirteen weapons at peak, all aggressive: Normalcy Anchor, Legitimacy Transfer, Horizon Extension, Necessity Claim + Necessity Escalation, Procedural Shield, Correction Theatre, Philosophical Disarmament, Complexity Shield, Obligation Manufacture, Sacrifice Frame, Performed Correction, Coherence Inversion, Measurement Surface Control. Only case where Measurement Surface Control and Coherence Inversion operate simultaneously at civilizational scale. Three-axis: far right, far down, back.
+
+Gravemind — Halo. Philosophical Disarmament minimum footprint case. Single weapon, maximum effectiveness. Scales with target intelligence — higher correction capacity requires more genuine insight to disarm.
+
+Judge Holden — Blood Meridian. Zero weapon deployment, maximum Violence-axis Lock. Direct action, no tricks, no concealment. Stable axis, full self-examination of it. Three-axis: far right, far down, front [no capture — axis genuinely his own].
+
+Anton Chigurh — No Country for Old Men. Two weapons deployed briefly then discarded: Philosophical Disarmament variant, Normalcy Anchor. Minimum viable Philosophical Disarmament — coin flip is the entire disarmament mechanism.
+
+Iago — Othello. High negative impact, low visibility. Weapons: Obligation Manufacture via Moral Debt, Solidarity Capture, Correction Theatre. Only case where weapon operator nearly invisible at output level — all terminal damage executed by target.
+
+Griffith — Berserk. Primary Axis Concealment case and Variable civilizational state. Pre-Eclipse: two simultaneous honest readings depending solely on boundary selection — axis was always the dream, Band was always substrate. Eclipse removes performance requirement without changing unit. Post-Eclipse Femto: dual Axis-Lock unique in library — Excess-axis and Change-axis simultaneously. Weapon: Martyrdom Laundering continuous post-Eclipse.
+
+Skull Knight — Berserk. Primary Torus individual scale case and zero weapon deployment proof. All six basic qualities intact across centuries-long window. Direct action only — no tricks, no concealment. Immortality = structural solution to transmission dependency failure. Duration is architectural not willpower. Three-axis: far right, strongly up, front.
+
+Idea of Evil — Berserk. Primary Collapse case with unique closed loop topology. Generated by population it consumes — correction mechanism producing it and mechanism that should detect it are the same. Closest case to T3 unreachable in library.
+
+Guts — Berserk. Primary Mixed individual scale case. High coherence subsystems alongside Violence-axis risk, active internal tension between correction capacity and Berserker Armor suppression. Mixed-stable, directionality window-dependent. Correction initiation positive consistently in relation to Casca. Three-axis: center, variable by window, front to mid.
+
+Casca post-Eclipse — Berserk. Primary Contained failure case. Correction capacity intact but inaccessible not absent. Clearest proof Contained failure is not degenerative.
+
+Farnese — Berserk. Primary positive directionality case from Low coherence starting position. Every change internally initiated. Most complete individual correction arc in library.
+
+Void — Berserk. Change-axis Lock at maximum sophistication. Philosophical Disarmament as constitutive property not deployed weapon — the entity is the argument. Most extreme Change-axis Lock case in library.
+
+Gwyn + Soul of Cinder — Dark Souls. Gwyn: initiating Axis-Lock Excess-axis variant, conscripted all available coherence into postponing inevitable transition. Weapons: Normalcy Anchor, Sacrifice Frame, Horizon Extension. Soul of Cinder: terminal Dependency failure of same cycle, requires new host each iteration. Together: Axis-Lock initiating Collapse cycle producing Dependency failure at terminal state.
+
+Malenia + Bed of Chaos — Dark Souls / Elden Ring. Parallel cases for individual Axis-Lock transitioning to environmental Structural Break. Different axes, identical transition mechanism.
+
+Lorian + Jaime Lannister — parallel Mixed-stable cases. High coherence alongside severe compromise, correction capacity asymmetrically accessible by subsystem. Identical framework reading, different contexts.
+
+Marika/Radagon — Elden Ring. Most diagnostically complex case in library. Structural Synchronous Contradictory States — concealment and correction running simultaneously inside one unit without strategic intent. Real-world analog: severe internal conflict states where both orientations are genuine.
+
+Ranni — Elden Ring. Primary Silent Alternative success case. Most sophisticated Silent Alternative completion in library. Three-axis: right, up, front [at completion].
+
+Godfrey — Elden Ring. Primary mortal zero-weapon High coherence case. Axis held when external validation dropped but institutional role couldn't. Closest mortal equivalent to Skull Knight — distinguished by mortality making transmission vulnerability real.
+
+Lothric — Dark Souls 3. Only case of genuine coherence explicitly refusing axis-locked conscription. Refusal to link the fire = positive correction initiation against institutional pressure.
+
+Nashandra — Dark Souls 2. Axis Concealment into Excess-axis Lock. Fragment of Manus, desire made manifest. Distinct from Griffith — concealment driven by constitutive desire not dream-axis.
+
+Miquella — Elden Ring. Axis Concealment at maximum sophistication. T2 indeterminate before completion stress event. Most uncertain pre-stress reading in library alongside Macbeth.
+
+Seath the Scaleless — Dark Souls 1. Change-axis Lock. Target exhaustion triggers redirection not cessation — clean Change-axis test one reading.
+
+Littlefinger + Light Yagami — parallel Silent Alternative failure cases. Both fail at transition through axis overreach. Transition stress event is the diagnostic.
+
+Varys + Ranni — parallel Silent Alternative success cases. Both complete transition without overreach.
+
+Early labor movement + Quakers — historical parallel Silent Alternative cases. Suppression confirmed asymmetry publicly, accelerating differential growth.
+
+Rogue — X-Men. Distinct Silent Alternative variant. Growth by capability differential not institutional differential. Most structurally resilient Silent Alternative in library — no stable axis to suppress against.
+
+Harvey Dent/Two-Face — DC. Mixed-collapsing compressed window. High and low coherence subsystems externalized as identity. T2 indeterminate before stress event.
+
+Walter White — Breaking Bad. Primary Mixed trajectory case. Mixed-stable early, Mixed-collapsing mid, Collapse terminal. Clearest single-window progression through all three Mixed sub-readings in library.
+
+Macbeth — Shakespeare. Variable pre-stress, Mixed-collapsing post-stress. Witches function as Philosophical Disarmament removing concealment rather than creating collapse. Most ambiguous pre-stress reading in library.
+
+Stannis + Light Yagami — parallel boundary-dependent generation cases. Same three-axis position produces opposite readings depending on population named. Primary proof cases for boundary selection as value selection.
+
+Tywin + Hector — parallel node-versus-topology contradiction cases. Tywin: extraction axis producing genuine stability as byproduct. Hector: High coherence positive generation node embedded in Collapse topology. Together demonstrate both directions this contradiction runs.
+
+Roy Batty + Snape — parallel terminal correction cases. Compromised or concealed readings across full window, genuine correction initiation appearing only at terminal point. Demonstrate correction capacity can survive full-window compromise and emerge genuine at terminal point.
+
+Bell Labs 1925-1984 — primary science coherence case. All six basic qualities intact. Measurable surplus — transistor, laser, Unix, information theory, cellular networks. AT&T funding insulation removed immediate output pressure. Transmission failure on breakup 1984 confirms genuine axis was institutionally dependent not self-sustaining. Demonstrates science coherence requires correction capacity protection from market signals. Three-axis: right, up, front [peak window].
+
+Weimar Republic — Low coherence, low weapon deployment. Selection Pressure failure moving to Consumption failure. Structural collapse through genuine incapacity not extraction. Stresemann period = genuine correction initiation, insufficient substrate to hold. Distinguished from Catholic Church and Imperium by absence of extraction pattern. Three-axis: left of center, neutral to up, front.
+
+Catholic Church full institutional history — most diverse weapon deployment across longest real-world measurement window. Approximately forty-two weapons contextually relevant across full history.
+Early period 33-313 CE: Silent Alternative Intrinsic Loose type, minimal weapon deployment. Three-axis: right, up, front.
+Constantine transition 313 CE: scale transition point, meta-boundary reading flips. Legitimacy Transfer from Imperial authority, Transmission Capture established. Three-axis shifts toward center, mid capture.
+Medieval peak 1100-1300: Crusades as topology collision, Inquisition as aggressive Measurement Surface Control.
+Reformation 1517: Luther = genuine correction initiation before external pressure. Church response = Axis-Lock signature, Correction Theatre at civilizational scale.
+Enlightenment 1650-1800: Science type as external topology challenge. Galileo case = Coherence Inversion attempt failing because science correction mechanism is distributed.
+Modern 1800-present: declining meta-boundary coherence, increasing defensive weapon deployment, abuse crisis as Performed Correction at maximum visibility.
+Topology finding: highest genuine surplus during persecution period when defensive weapon deployment dominates. Binary reading: Mixed-stable externally, Variable internally by period and subsystem.
+
+Corporate Management Structure — embedded weapon deployment without individual actor intent. Standard architecture weapons: Churn Normalization, Metric Capture, Competence Undermining, Stakeholder Diffusion, Consultancy Shield, Selection Pressure Narrowing. Net transfer direction consistently upward. Aggressive by structural effect regardless of individual intent. Normalcy Anchor operating on operators themselves.
+
+Corporate Topology Failure — three mechanisms requiring different correction pathways.
+Metric Capture variant [Sigma Six type]: High coherence at unit scale, unmeasurable systemic costs accumulate at meta-boundary. Correction: measurement surface reconstruction.
+Selection Pressure variant [complexity cost]: complexity generated faster than correction capacity processes it. Distinguished from Axis-Lock by absence of consistent surplus flow toward terminal node. Correction: correction capacity scaling.
+Axis-Lock variant [greed]: consistent surplus flow toward terminal node. Distinguished from complexity failure by consistent directionality. Correction: axis intervention.
+
+Fictional Coherence Topologies — primary finding: every sustained evil produces identical pattern — consumption-dominant terminal node fed by capture chains running through intermediate nodes that believe they are operating normally.
+Idea of Evil [Berserk]: closed loop topology, T3 unreachable as topology property.
+Imperial topology [Warhammer]: linear extraction chain toward Golden Throne, Space Marine chapters as high-coherence nodes inside extraction topology.
+Trench Crusade: opposing terminal nodes with human population as intermediate layer, Blood-Soaked Court as reversed intermediate node.
+Dark Souls linking flame: consumption cascade, Undead as extraction residue at system boundary.
+Westeros: three parallel extraction chains through same population nodes, no generative core, ungovernable by topology property.
+Breaking Bad: individual scale topology, transfer direction reversal readable as topology property before visible as character change.
+
+
+======================
+WORK IN PROGRESS
+======================
+
+Directionality composite signatures need operational procedures — each signature has a scoring rule but not a measurement procedure another analyst could follow to reach a consistent reading.
+
+Geometric model with functional coherence as center named but not developed.
+
+Boundary selection rule needs formal placement — working version is moral filter first [no harm, no hostile resource extraction], coherence measurement second to avoid circularity.
+
+Coherence weapon index needs percentage values calibrated against case library. Current list has sixty-three weapons plus variants. List is living.
